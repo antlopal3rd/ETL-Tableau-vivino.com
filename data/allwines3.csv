@@ -1,0 +1,945 @@
+winery,wine,year,rating,num_review,region,price,type,grapes
+Quinta Milú,La Cometa 2019,2019,"4,0",273,España / Castilla y León / Ribera del Duero,"14,90",Vino tinto,100 % de Tempranillo
+Bodegas Mano a Mano,Mano a Mano 2016,2016,"3,7",996,España / Castilla,"6,59",Vino tinto,100 % de Tempranillo
+Marqués de Griñon,Emeritvs (Emeritus) 2011,2011,"4,3",198,España / Castilla / Dominio de Valdepusa,"52,94",Vino tinto,"83 % de Cabernet Sauvignon, 11 % de Petit Verdot, 6 % de Shiraz/Syrah"
+Roger Goulart,Cava Reserva Brut Nature 2015,2015,"3,7",197,España / Cava,"10,95",Vino espumoso,"Macabeo, Parellada"
+Casa Castillo,Monastrell 2020,2020,"3,8",101,España / Murcia / Jumilla,"7,99",Vino tinto,100 % de Monastrell
+Marqués de Altillo,Crianza 2015,2015,"3,4",72,España / Rioja,"5,54",Vino tinto,"Tempranillo, Grenache"
+Barco del Corneta,Cucú Verdejo 2015,2015,"3,7",187,España / Castilla y León,"9,35",Vino blanco,100 % de Verdejo
+Hacienda el Ternero,Reserva 2011,2011,"3,9",321,España / Rioja,"19,68",Vino tinto,"Tempranillo, Mazuelo"
+Hiriart,Crianza 2014,2014,"3,5",53,España / Castilla y León / Cigales,"10,50",Vino tinto,100 % de Tinta del Pais
+La Vizcaína,El Rapolao (Lomas de Valtuille) 2018,2018,"3,9",411,España / Castilla y León / Bierzo,"21,90",Vino tinto,100 % de Mencia
+Garay,Bleu 2019,2019,"4,2",26,España / Andalucía / Condado de Huelva,"10,90",Vino blanco,Zalema
+Criadores de Rioja,El Guardián Crianza 2014,2014,"3,6",299,España / Rioja,"11,20",Vino tinto,"Tempranillo, Grenache"
+Equipo Navazos,La Bota 99 de Florpower 2019,2019,"3,5",34,España / Andalucía / Jerez-Xérès-Sherry / Manzanilla,"23,50",Vino blanco,100 % de Palomino
+Llopart,Cava Brut Nature Reserva 2013,2013,"3,8",429,España / Cava,"12,78",Vino espumoso,"Macabeo, Xarel-lo, Parellada"
+Canopy,Castillo de Belarfonso Mentrida 2019,2019,"3,6",85,España / Castilla / Méntrida,"8,75",Vino tinto,100 % de Garnacha
+Bodegas Amaren,Tempranillo - Garnacha Crianza 2017,2017,"4,0",303,España / Rioja,"12,99",Vino tinto,"90 % de Tempranillo, 10 % de Garnacha"
+Las Moradas de San Martín,Libro Ocho. Las Luces 2008,2008,"4,0",157,España / Madrid,"33,90",Vino tinto,Garnacha
+Viña Ijalba,Reserva 2012,2012,"3,7",146,España / Rioja,"13,90",Vino tinto,"Tempranillo, Graciano"
+4 Kilos Vinícola,4 Kilos 2019,2019,"4,0",214,España / Islas Baleares / Mallorca,"30,09",Vino tinto,"50 % de Callet, 40 % de Cabernet Sauvignon, 10 % de Merlot"
+Castaño,Monastrell Dulce 2010,2010,"3,9",45,España / Murcia / Yecla,"11,89",Vino de postre,100 % de Monastrell
+Terroir Al Límit Soc. Lda,Les Tosses 2016,2016,"4,6",38,España / Cataluña / Priorato,210,Vino tinto,100 % de Cariñena
+Luberri,Seis de Luberri Rioja 2018,2018,"3,7",175,España / Rioja,"8,30",Vino tinto,100 % de Tempranillo
+Vinyes del Terrer,Terrenal d'Aubert Dolç 2017,2017,"4,0",35,España / Cataluña / Tarragona,"13,50",Vino de postre,"80 % de Garnacha, 20 % de Cabernet Sauvignon"
+Raimat,Castell de Raimat Chardonnay 2021,2021,"3,8",199,España / Cataluña / Costers del Segre,"6,25",Vino blanco,100 % de Chardonnay
+Finca Torremilanos,Los Cantos de Torremilanos 2019,2019,"3,9",97,España / Castilla y León / Ribera del Duero,"11,95",Vino tinto,100 % de Tempranillo
+Jiménez-Landi,Piélago 2017,2017,"3,7",33,España / Castilla / Méntrida,"30,10",Vino tinto,100 % de Garnacha
+L'Encastell,Roquers de Porrera 2016,2016,"4,2",103,España / Cataluña / Priorato,"36,90",Vino tinto,"Shiraz/Syrah, Merlot, Carignan, Garnacha"
+Alonso & Pedrajo,Suañé Blanco 2017,2017,"4,3",98,España / Rioja,"24,65",Vino blanco,"75 % de Viura, 25 % de Sauvignon Blanc"
+Pago de Larrainzar,Angel 2017,2017,"3,6",248,España / Navarra,"8,49",Vino tinto,"Garnacha, Cabernet Sauvignon, Cabernet Franc, Merlot"
+Pujanza,Rioja Norte 2007,2007,"4,1",93,España / Rioja,"49,90",Vino tinto,100 % de Tempranillo
+Barbadillo,Reliquia Palo Cortado Sherry N.V.,7682,"4,7",58,España / Andalucía / Jerez-Xérès-Sherry / Jerez Palo Cortado,,Vino fortificado,Palomino
+Celler Aixalà Alcait,Les Clivelles de Torroja 2019,2019,"4,1",52,España / Cataluña / Priorato,"14,28",Vino tinto,Cariñena
+Lopez Cristobal,Parcela Uno 2018,2018,"4,4",49,España / Castilla y León / Ribera del Duero,"28,50",Vino tinto,Tempranillo
+Emendis,Flos Sauvignon Blanc - Muscat 2021,2021,"3,8",37,España / Cataluña / Penedès,"6,95",Vino blanco,"Muscat Blanc, Sauvignon Blanc"
+Matías i Torres,Negramoll Tinto 2015,2015,"3,7",77,España / Islas Canarias / La Palma,"26,80",Vino tinto,Negramoll
+Beronia,Rioja Gran Reserva 1994,1994,"4,5",57,España / Rioja,"20,50",Vino tinto,Tempranillo
+Castillo Perelada,Només Garnatxa Blanca 2021,2021,"3,8",58,España / Cataluña / Empordà,"7,25",Vino blanco,100 % de Garnacha Blanca
+Mortitx,Rodal Pla 2019,2019,"4,0",31,España / Islas Baleares / Mallorca,"13,92",Vino tinto,"Shiraz/Syrah, Cabernet Sauvignon, Merlot"
+Volver,Paso a Paso Tempranillo 2020,2020,"3,7",102,España / Castilla,"6,18",Vino tinto,100 % de Tempranillo
+Succès,La Cuca de Llum 2019,2019,"3,8",286,España / Cataluña / Conca de Barberà,"7,89",Vino tinto,100 % de Trepat
+Castellroig,Finca Sabaté i Coca Sø Blanco 2019,2019,"3,7",92,España / Cataluña / Penedès,"12,57",Vino blanco,Xarel-lo
+R. López de Heredia,Viña Bosconia Reserva 2009,2009,"4,2",1943,España / Rioja / Rioja Alta,"22,90",Vino tinto,100 % de Tempranillo
+Castell d'Encus,Acusp 2018,2018,"3,9",196,España / Cataluña / Costers del Segre,"35,90",Vino tinto,100 % de Pinot Noir
+Puerta Vieja,Crianza 2017,2017,"3,5",338,España / Rioja,"6,03",Vino tinto,"80 % de Tempranillo, 15 % de Mazuelo, 5 % de Graciano"
+Conreria d'Scala Dei,Nona 2019,2019,"3,7",58,España / Cataluña / Priorato,"12,80",Vino tinto,"Cabernet Sauvignon, Merlot, Garnacha, Samsó"
+Delgado Zuleta,Monteagudo Moscatel N.V.,1094,"4,0",84,España / Andalucía / Jerez-Xérès-Sherry,,Vino fortificado,Muscatel
+Josep Grau Viticultor,L'Efecte Volador Montsant 2020,2020,"3,9",124,España / Cataluña / Tarragona / Montsant,"8,95",Vino tinto,Grenache
+Lagravera,Ónra Blanco 2019,2019,"3,8",132,España / Cataluña / Costers del Segre,"10,85",Vino blanco,"Garnacha Blanca, Sauvignon Blanc"
+Las Moradas de San Martín,Albillo Real 2020,2020,"3,8",27,España / Madrid,"12,90",Vino blanco,Albillo
+Diez Caballero,Vendemia Seleccionada 2015,2015,"3,9",140,España / Rioja,"18,25",Vino tinto,100 % de Tempranillo
+Bodegas Ochoa,Finca Montijo Mi Selección 2005,2005,"4,1",67,España / Navarra,"37,90",Vino tinto,"Cabernet Sauvignon, Malbec, Merlot"
+Avgvstvs,Primer Negre 2019,2019,"3,8",56,España / Cataluña / Penedès,"8,90",Vino tinto,"Grenache, Merlot, Tempranillo"
+Castillo de Maetierra,Libalis Rosé 2015,2015,"3,3",92,España / Navarra / Valles de Sadacia,"8,50",Vino rosado,"Riesling, Moscatel de grano menudo"
+Masia Serra,Mosst 2021,2021,"3,8",34,España / Cataluña / Empordà,"11,68",Vino blanco,"Grenache, Moscato, Garnacha Roja (Gris)"
+A Coroa,Godello 2016,2016,"3,8",354,España / Galicia / Valdeorras,"11,90",Vino blanco,100 % de Godello
+Artuke,Pies Negros Rioja 2018,2018,"3,8",774,España / Rioja,25,Vino tinto,"90 % de Tempranillo, 10 % de Graciano"
+Barbadillo,Aged 30 Years Amontillado Sherry N.V.,3842,"4,0",89,España / Andalucía / Jerez-Xérès-Sherry / Jerez Amontillado,,Vino fortificado,100 % de Palomino
+Protos,Aire de Protos 2020,2020,"3,8",188,España / Castilla y León / Cigales,"7,90",Vino rosado,100 % de Tinto Fino
+Bodegas Frontonio,Telescópico Garnacha 2013,2013,"3,7",62,España / Aragón / Valdejalón,"14,95",Vino tinto,100 % de Garnacha Tinta
+Viñas del Vero,Tempranillo - Cabernet Sauvignon Crianza 2005,2005,"3,3",44,España / Aragón / Somontano,"6,67",Vino tinto,"Cabernet Sauvignon, Tempranillo"
+Toro Albalá,Don PX Pedro Ximenez 1946,1946,"4,8",108,España / Andalucía / Montilla-Moriles,"45,50",Vino fortificado,Pedro Ximenez
+Álvaro Palacios,Quiñon de Valmira 2016,2016,"4,5",94,España / Rioja,"375,81",Vino tinto,100 % de Tempranillo
+Artuke,Pies Negros Rioja 2019,2019,"3,7",392,España / Rioja,"10,64",Vino tinto,"90 % de Tempranillo, 10 % de Graciano"
+Vins del Tros,La Blanca Amfora 2017,2017,"3,8",62,España / Cataluña / Terra Alta,"15,80",Vino blanco,Garnacha Blanca
+Domènech.Vidal,Freyé Syrah - Tempranillo 2019,2019,"3,6",62,España / Cataluña / Penedès,"7,62",Vino tinto,"Shiraz/Syrah, Tempranillo"
+Mont-Ferrant,AgustÍ Vilaret 2008,2008,"4,0",50,España / Cava,"23,95",Vino espumoso,"Xarel-lo, Parellada, Chardonnay, Macabeo"
+Viñedos de Páganos,El Puntido 2015,2015,"4,3",957,España / Rioja,"33,82",Vino tinto,100 % de Tempranillo
+Micro Bio (MicroBio),La Banda del Argilico 2020,2020,"4,0",26,España / Castilla y León,"15,55",Vino blanco,100 % de Verdejo
+Cuatro Rayas,Vendimia Nocturna Sauvignon 2021,2021,"3,6",41,España / Castilla y León / Rueda,"5,90",Vino blanco,100 % de Sauvignon Blanc
+Cellers d'en Guilla,Vinya del Metge Garnatxa Roja 2019,2019,"3,8",30,España / Cataluña / Empordà,"11,95",Vino rosado,Grenache
+Bodegas Lagunilla,Tempranillo 2016,2016,"3,5",33,España / Rioja,"13,43",Vino tinto,Tempranillo
+Bodegas Amaren,Barrel Fermented White 2018,2018,"4,0",264,España / Rioja,"13,69",Vino blanco,"85 % de Viura, 15 % de Malvasia"
+Contino,Rioja Graciano 2007,2007,"4,0",126,España / Rioja,"71,55",Vino tinto,100 % de Graciano
+Palacio de Arganza,Tinto 1958,1958,"4,2",38,España / Castilla y León,"5,50",Vino tinto,Mencia
+Beronia,Rioja Crianza 2017,2017,"3,7",1762,España / Rioja,"6,35",Vino tinto,100 % de Tempranillo
+Alta Alella,Mirgin Reserva Brut Nature 2016,2016,"3,7",364,España / Cava,"14,63",Vino espumoso,100 % de Parellada
+Casa Rojo,Enemigo Mío Garnacha 2021,2021,"4,0",53,España / Vino de España,"13,08",Vino de España,100 % de Grenache
+Can Ràfols dels Caus,Pairal Xarel-lo 2014,2014,"4,2",61,España / Cataluña,"80,01",Vino blanco,Xarel-lo
+Palomo Cojo,Verdejo 2019,2019,"3,7",246,España / Castilla y León / Rueda,"16,25",Vino blanco,100 % de Verdejo
+Marqués de Murrieta,Reserva Rioja (Finca Ygay) 1970,1970,"4,0",29,España / Rioja,"113,88",Vino tinto,"Garnacha, Tempranillo, Mazuelo, Graciano"
+Viñas del Vero,Colección Pago Los Canteras Syrah Somontano 2018,2018,"4,1",37,España / Aragón / Somontano,"10,90",Vino tinto,100 % de Shiraz/Syrah
+Vins del Comtat,El Salze Monastrell 2017,2017,"3,8",274,España / Valencia,"12,90",Vino tinto,Monastrell
+Albet i Noya,Lignum Penedès 2017,2017,"3,8",308,España / Cataluña / Penedès,"8,75",Vino tinto,"Shiraz/Syrah, Merlot, Cabernet Sauvignon"
+Bodegas Príncipe de Viana,Crianza 2016,2016,"3,5",30,España / Navarra,"5,55",Vino tinto,"Merlot, Tempranillo, Cabernet Sauvignon"
+El Angosto,Almendros Single Vineyard Tinto 2011,2011,"4,0",76,España / Valencia,"15,90",Vino tinto,"Marselan, Shiraz/Syrah, Garnacha"
+Finca Río Negro,992 2013,2013,"3,4",112,España / Castilla,"10,50",Vino tinto,"Merlot, Tempranillo, Shiraz/Syrah, Cabernet Sauvignon"
+Medrano Irazu,Amador Medrano Colección Privada Edición Limitada 2015,2015,"4,1",83,España / Rioja,19,Vino tinto,Tempranillo
+Alto Moncayo,Veraton Garnacha 2014,2014,"4,2",1630,España / Aragón / Campo de Borja,"23,85",Vino tinto,100 % de Grenache
+Bodegas Piedemonte,Cuatro Tierras 2018,2018,"3,5",170,España / Navarra,"7,89",Vino tinto,100 % de Cabernet Sauvignon
+El Mas de l'A,Racorell 2018,2018,"4,1",81,España / Cataluña / Priorato,"19,80",Vino tinto,"Garnacha, Garnacha Roja (Gris), Garnacha Peluda"
+Acustic Celler,Acústic Rosat 2018,2018,"4,0",35,España / Cataluña / Tarragona / Montsant,"10,76",Vino rosado,Garnacha
+Laus,Crianza 2018,2018,"3,4",81,España / Aragón / Somontano,"6,45",Vino tinto,"Cabernet Sauvignon, Merlot"
+Huerta de Albala,Barbazul Tinto 2019,2019,"3,6",163,España / Andalucía / Cádiz,"8,75",Vino tinto,100 % de Tintilla de Rota
+Pagos de Híbera,Modernista Negre 2020,2020,"3,5",67,España / Cataluña / Terra Alta,"7,90",Vino tinto,"Ull de Llebre, Shiraz/Syrah, Garnacha, Samsó"
+Casa Gran del Siurana,Priorat Cruor 2017,2017,"4,1",337,España / Cataluña / Priorato,"17,50",Vino tinto,100 % de Shiraz/Syrah
+Recaredo,Terrers Brut Nature Gran Reserva 2018,2018,"4,0",65,España / Cataluña / Penedès,"20,45",Vino espumoso,100 % de Xarel-lo
+Finca Los Aljibes,Cabernet Franc 2016,2016,"3,8",31,España / Castilla,"10,50",Vino tinto,100 % de Cabernet Franc
+Juvé & Camps,Gregal d'Espiells 2018,2018,"3,7",134,España / Cataluña / Penedès,"10,25",Vino blanco,"Moscatel de Alejandría, Gewürztraminer"
+Dominio Dostares,Estay Prieto Picudo 2016,2016,"3,5",199,España / Castilla y León / Bierzo,"7,80",Vino tinto,100 % de Prieto Picudo
+Balbas,Ribera del Duero Crianza 2014,2014,"3,7",432,España / Castilla y León / Ribera del Duero,"21,25",Vino tinto,"Cabernet Sauvignon, Tempranillo"
+Espectacle del Montsant,Tinto 2013,2013,"4,5",221,España / Cataluña / Tarragona / Montsant,"157,95",Vino tinto,100 % de Garnacha
+Baltasar Gracián,El Politico Garnacha 2016,2016,"3,6",390,España / Aragón / Calatayud,"6,10",Vino tinto,100 % de Garnacha
+Viña Zorzal,Garnacha Blanca 2019,2019,"3,6",69,España / Navarra,"7,50",Vino blanco,100 % de Garnacha Blanca
+Finca Villacreces,Nebro Ribera del Duero 2009,2009,"4,3",108,España / Castilla y León / Ribera del Duero,"143,38",Vino tinto,100 % de Tempranillo
+Bodegas Faustino,Crianza 2019,2019,"3,7",114,España / Rioja,"6,65",Vino tinto,100 % de Tempranillo
+Soto y Manrique,Naranjas Azules Garnacha Rosado 2020,2020,"3,7",126,España / Castilla y León,"8,40",Vino rosado,100 % de Garnacha
+Agusti Torello Mata,Cava Gran Reserva Brut Nature 2017,2017,"3,8",70,España / Cava,"15,66",Vino espumoso,Parellada
+Autòcton Celler,Gran Autòcton Blanc 2017,2017,"4,0",51,España / Cataluña / Penedès,"17,20",Vino blanco,100 % de Xarel-lo
+Valquejigoso,Dehesa Valquejigoso 2013,2013,"4,1",433,España / Madrid,"19,73",Vino tinto,"Merlot, Tempranillo, Petit Verdot, Graciano, Shiraz/Syrah, Cabernet Sauvignon"
+Artadi,Tempranillo Vineyard Selection 2018,2018,"3,7",40,España / Vino de España,"10,02",Vino de España,100 % de Tempranillo
+Olivardots,Groc d’Àmfora 2020,2020,"3,9",110,España / Cataluña / Empordà,"11,10",Vino blanco,"Macabeo, Garnacha Blanca, Garnacha Roja (Gris)"
+El Maestro Sierra,Amoroso (Medium) N.V.,5004,"3,9",225,España / Andalucía / Jerez-Xérès-Sherry,"16,90",Vino fortificado,"Palomino, Pedro Ximenez"
+José Pariente,Sauvignon Blanc 2020,2020,"4,1",847,España / Castilla y León / Rueda,"9,50",Vino blanco,100 % de Sauvignon Blanc
+Castillo de Albai,Reserva Rioja 2013,2013,"3,6",743,España / Rioja,"8,50",Vino tinto,100 % de Tempranillo
+Neo,Ribera del Duero Tinto 2017,2017,"3,9",659,España / Castilla y León / Ribera del Duero,29,Vino tinto,100 % de Tinto Fino
+Finca Sandoval,Signo Bobal de Manchuela 2011,2011,"3,7",140,España / Castilla / Manchuela,"18,50",Vino tinto,Bobal
+Bodegas San Román,Cartago Paraje de Pozo 2016,2016,"4,5",71,España / Castilla y León / Toro,"75,95",Vino tinto,Tinta de toro
+La Veguilla,Crianza 2014,2014,"3,5",548,España / Castilla y León / Ribera del Duero,"15,90",Vino tinto,"Cabernet Sauvignon, Tempranillo"
+Forlong,Ánfora 2018,2018,"3,7",60,España / Andalucía / Cádiz,"15,80",Vino tinto,100 % de Tintilla de Rota
+Conreria d'Scala Dei,Les Brugueres 2018,2018,"4,2",417,España / Cataluña / Priorato,"32,08",Vino tinto,"Shiraz/Syrah, Garnacha Tinta"
+Abad,Carracedo Mencía Tinto 2016,2016,"3,9",181,España / Castilla y León / Bierzo,"16,15",Vino tinto,Mencia
+El Regajal,Selección Especial 2019,2019,"3,8",160,España / Madrid,"15,40",Vino tinto,100 % de Tempranillo
+Bodegas Bhilar,Bhilar Plots Rioja Blanco 2020,2020,"3,9",33,España / Rioja,"11,50",Vino blanco,"90 % de Viura, 10 % de Garnacha Blanca"
+Gallina,Tempranillo 2020,2020,"3,7",39,España / Castilla / La Mancha,"5,64",Vino tinto,Tempranillo
+MontRubí,Durona Tinto 2018,2018,"3,5",31,España / Cataluña / Penedès,"14,50",Vino tinto,"Garnacha, Samsó, Sumoll"
+St. Petroni,Branco Vermú N.V.,2489,"4,3",161,España / Galicia,"13,90",Vino fortificado,Albariño
+Hacienda Solano,Peña Lobera 2016,2016,"4,6",58,España / Castilla y León / Ribera del Duero,"74,50",Vino tinto,100 % de Tinto Fino
+Viña Mayor,Rueda Verdejo 2021,2021,"3,9",245,España / Castilla y León / Rueda,"5,95",Vino blanco,Verdejo
+Gramona,Cava Enoteca Finca La Plana Brut Nature 2000,2000,"4,3",49,España / Cava,152,Vino espumoso,"Chardonnay, Tempranillo, Macabeo, Xarel-lo, Parellada"
+Vega Sicilia,Unico Reserva Especial Edición 2020,2020,"4,8",88,España / Castilla y León / Ribera del Duero,"435,75",Vino tinto,100 % de Tinto Fino
+Fuentespina,Granate Roble (Oak Aged) Ribera del Duero 2020,2020,"3,0",35,España / Castilla y León / Ribera del Duero,"5,90",Vino tinto,Tempranillo
+D. Mateos,Insensato Garnacha 2019,2019,"3,9",371,España / Rioja,"10,95",Vino tinto,Garnacha
+Hacienda Albae,Malbec 2018,2018,"3,6",28,España / Castilla / La Mancha,"7,20",Vino tinto,Malbec
+Bodegas El Nido,El Nido 2019,2019,"4,7",149,España / Murcia / Jumilla,"147,48",Vino tinto,100 % de Cabernet Sauvignon
+Soto y Manrique,Naranjas Azules Garnacha Rosado 2021,2021,"3,6",46,España / Castilla y León,"8,40",Vino rosado,100 % de Garnacha
+Palacio de Arganza,Tinto 1985,1985,"3,6",26,España / Castilla y León,"5,50",Vino tinto,Mencia
+Sangenís I Vaqué,Coranya 2014,2014,"4,2",59,España / Cataluña / Priorato,"28,95",Vino tinto,"50 % de Cariñena, 50 % de Garnacha"
+Bertha,Lounge Rosé 2014,2014,"3,9",46,España / Cava,"11,34",Vino espumoso,Garnacha
+La Rioja Alta,Viña Ardanza Reserva 1985,1985,"4,4",74,España / Rioja,"22,50",Vino tinto,"Tempranillo, Graciano"
+Bodegas Faustino,V Reserva 2001,2001,"4,0",185,España / Rioja,"19,36",Vino tinto,Tempranillo
+Pago de Carraovejas,Tinto 2019,2019,"4,5",3698,España / Castilla y León / Ribera del Duero,"34,90",Vino tinto,100 % de Merlot
+Herència Altés,Trementinaire Garnatxa Blanca 2018,2018,"4,1",38,España / Cataluña / Terra Alta,"17,95",Vino blanco,Grenache Blanc
+Remírez de Ganuza,Rioja Reserva Fincas de Ganuza 2005,2005,"4,0",547,España / Rioja,"49,95",Vino tinto,"Tempranillo, Graciano, Viura"
+Dominio de Pingus,Flor de Pingus 2005,2005,"4,5",672,España / Castilla y León / Ribera del Duero,125,Vino tinto,100 % de Tempranillo
+Bodegas Valdemar,Conde de Valdemar Blanco 2020,2020,"3,7",124,España / Rioja,"5,80",Vino blanco,100 % de Viura
+Terroir Al Límit Soc. Lda,Historic Tinto 2019,2019,"3,8",46,España / Cataluña / Priorato,"17,90",Vino tinto,100 % de Garnacha
+Bodegas Faustino,VII Cabernet Sauvignon 2020,2020,"3,7",44,España / Vino de España,"4,21",Vino de España,Cabernet Sauvignon
+Habla,Habla de Ti Sauvignon Blanc 2020,2020,"4,0",528,España / Extremadura,"9,90",Vino blanco,100 % de Sauvignon Blanc
+Mas Patiràs,La Goja 2019,2019,"3,4",26,España / Cataluña / Empordà,"12,35",Vino tinto,Grenache
+Viñátigo,Listán Negro 2020,2020,"3,8",82,España / Islas Canarias / Ycoden-Daute-Isora,"15,90",Vino tinto,100 % de Listan Negro
+Bodegas Luis Perez,Tintilla Balbaina 2019,2019,"4,0",43,España / Andalucía / Cádiz,"19,95",Vino tinto,"Palomino, Tintilla de Rota"
+Consejo de la Alta,Cata de Consejero Tempranillo 2014,2014,"4,0",71,España / Rioja,"35,95",Vino tinto,Tempranillo
+Viña d'Mateo,Massimo Rosso 2018,2018,"3,6",88,España / Galicia / Ribeira Sacra,"8,90",Vino tinto,100 % de Mencia
+Comando G,La Mujer Cañón 2015,2015,"4,1",66,España / Madrid,"89,25",Vino tinto,100 % de Garnacha
+Tomàs Cusiné,Llebre 2018,2018,"3,7",542,España / Cataluña / Costers del Segre,"7,93",Vino tinto,100 % de Tempranillo
+Can Xanet,Sibila 2017,2017,"4,3",35,España / Islas Baleares / Mallorca,"32,46",Vino tinto,Gorgollasa
+Josep Grau Viticultor,La Florens 2018,2018,"4,3",50,España / Cataluña / Tarragona / Montsant,"24,05",Vino tinto,Grenache
+Vinos en Voz Baja,Costumbres Tinto 2019,2019,"4,0",95,España / Rioja,"15,25",Vinos en Voz Baja,"Garnacha, Graciano"
+Leda,Mas de Leda 2013,2013,"3,7",328,España / Castilla y León,"12,90",Vino tinto,100 % de Tempranillo
+Dominio do Bibei,Lalume 2017,2017,"4,1",360,España / Galicia / Ribeiro,"15,74",Vino blanco,100 % de Treixadura
+Mas Bertran,La Graua 2012,2012,"3,8",31,España / Cataluña / Penedès,"13,60",Vino espumoso,"Macabeo, Xarel-lo"
+Allende,Martires Rioja 2016,2016,"4,3",85,España / Rioja,"108,63",Vino blanco,100 % de Viura
+Emendis,Cabró! Negre Selecció 2021,2021,"3,2",31,España / Cataluña / Penedès,"5,19",Vino tinto,"Cabernet Sauvignon, Cabernet Franc, Tempranillo"
+Atalaya,La Atalaya del Camino 2020,2020,"4,1",280,España / Castilla / Almansa,"10,27",Vino tinto,100 % de Garnacha Tintorera
+Mas de Subirà,Criança 2018,2018,"3,9",150,España / Cataluña / Priorato,"15,95",Vino tinto,"Cabernet Sauvignon, Cariñena, Garnacha Tinta"
+Thunder Wine Makers,Fils de Vi 2019,2019,"3,8",61,España / Cataluña / Priorato,21,Vino tinto,Garnacha
+Pujanza,Rioja Norte 2013,2013,"4,1",43,España / Rioja,"49,90",Vino tinto,100 % de Tempranillo
+Coca i Fitó,Rosa 2018,2018,"3,9",27,España / Cataluña / Tarragona / Montsant,"14,90",Vino rosado,100 % de Shiraz/Syrah
+Leza García,Crianza 2014,2014,"3,6",63,España / Rioja,"10,65",Vino tinto,100 % de Tempranillo
+Pago de Carraovejas,Cuesta de Las Liebres 2009,2009,"4,7",933,España / Castilla y León / Ribera del Duero,"194,90",Vino tinto,100 % de Tinto Fino
+Casal de Armán,Blanco 2021,2021,"4,0",28,España / Galicia / Ribeiro,"12,45",Vino blanco,"Albariño, Godello, Treixadura"
+Loxarel,Vintage Reserva Brut Nature 2014,2014,"3,9",81,España / Cataluña / Penedès,"6,45",Vino espumoso,"Macabeo, Xarel-lo, Chardonnay"
+Finca Río Negro,992 2019,2019,"3,7",40,España / Castilla,"10,74",Vino tinto,"84 % de Tempranillo, 11 % de Shiraz/Syrah, 3 % de Merlot, 2 % de Cabernet Sauvignon"
+Sierra Cantabria,Organza 2017,2017,"3,8",83,España / Rioja,"16,75",Vino blanco,"45 % de Viura, 35 % de Garnacha Blanca, 20 % de Malvasia"
+El Mas de l'A,Quars 2018,2018,"4,1",78,España / Cataluña / Priorato,"21,90",Vino blanco,Grenache Blanc
+Artífice,Listán Blanco de Canarias 2016,2016,"3,9",120,España / Islas Canarias / Ycoden-Daute-Isora,"46,75",Vino blanco,Palomino
+Venus la Universal,Venus de la Figuera 2016,2016,"4,4",98,España / Cataluña / Tarragona / Montsant,"54,99",Vino tinto,100 % de Garnacha
+Viñas del Vero,Blecua Somontano 2003,2003,"4,3",81,España / Aragón / Somontano,"73,90",Vino tinto,100 % de Cabernet Sauvignon
+Bodegas La Soterraña,Eresma Sietesiete Verdejo 2020,2020,"3,2",43,España / Castilla y León / Rueda,"4,50",Vino blanco,Verdejo
+D. Mateos,La Mateo Garnacha Cepas Viejas 2017,2017,"4,1",225,España / Rioja,"32,95",Vino tinto,Garnacha
+Lopez Cristobal,Tinto Crianza 2018,2018,"3,9",149,España / Castilla y León / Ribera del Duero,"15,50",Vino tinto,100 % de Tempranillo
+Bodegas Celler Francisco Castillo - Clos Dominic,Vinyes Altes Porrera 2017,2017,"4,4",57,España / Cataluña / Priorato,"36,35",Vino tinto,100 % de Cariñena
+Pradorey,Cuvée Premium 2020,2020,"3,8",32,España / Castilla y León / Ribera del Duero,"11,60",Vino tinto,100 % de Tempranillo
+Loxarel,OPS Tinto 2020,2020,"3,7",26,España / Cataluña,"11,75",Vino tinto,Garnacha
+Viñas del Vero,Gewürztraminer Somontano 2016,2016,"3,9",873,España / Aragón / Somontano,12,Vino blanco,100 % de Gewürztraminer
+Martinez Lacuesta,Ventilla 71 Rioja 2008,2008,"3,9",59,España / Rioja,"10,95",Vino tinto,Tempranillo
+Costers del Siurana,Miserere 2009,2009,"4,2",32,España / Cataluña / Priorato,"77,50",Vino tinto,"Merlot, Cariñena, Tempranillo, Cabernet Sauvignon"
+Cuevas de Arom,AS Ladieras 2018,2018,"3,7",86,España / Aragón / Campo de Borja,"16,75",Vino tinto,100 % de Garnacha
+Castillo Clavijo,Rioja Crianza Tempranillo - Garnacha 2012,2012,"3,5",483,España / Rioja,"6,20",Vino tinto,"Tempranillo, Garnacha"
+Venta La Vega - Bodegas Almanseñas,Ternario 2 2016,2016,"3,4",44,España / Castilla / Almansa,"10,90",Vino tinto,100 % de Garnacha Tintorera
+Alta Alella,Pansa Blanca 2020,2020,"3,7",116,España / Cataluña / Alella,"7,85",Vino blanco,Xarel-lo
+Rodríguez de Vera,Sopla Levante Pinomar Merseguera - Moscatel de Alejandría 2019,2019,"3,6",61,España / Castilla,"15,95",Vino blanco,"Moscatel de Alejandría, Merseguera"
+Lerma,Crianza Tinto 2014,2014,"3,6",60,España / Castilla y León / Arlanza,"9,50",Vino tinto,Tempranillo
+Duc de Foix,Cava Brut Nature N.V.,5129,"3,3",279,España / Cava,"5,55",Vino espumoso,"Macabeo, Xarel-lo, Parellada"
+Comando G,La Mujer Cañón 2016,2016,"4,1",31,España / Madrid,"89,25",Vino tinto,100 % de Garnacha
+Bodegas Vallobera,Crianza Rioja 2018,2018,"3,7",425,España / Rioja,"8,40",Vino tinto,100 % de Tempranillo
+Bodega Sommos,Merlot - Cabernet Roble 2020,2020,"3,7",330,España / Aragón / Somontano,"5,30",Vino tinto,"Cabernet Sauvignon, Merlot"
+Escoda-Sanahuja,Els Bassots 2019,2019,"4,1",181,España / Cataluña / Conca de Barberà,"22,34",Vino blanco,100 % de Cariñena
+Cartoixa de Montsalvat,Montsalvat 2007,2007,"4,3",63,España / Cataluña / Priorato,"44,90",Vino tinto,100 % de Garnacha
+Rico Nuevo,Jirón de Niebla 2018,2018,"3,8",37,España / Castilla y León,"29,45",Vino tinto,100 % de Garnacha
+El Coto,875m Finca Carbonera Tinta di Altura Tempranillo 2018,2018,"3,6",196,España / Rioja,"10,50",Vino tinto,100 % de Tempranillo
+Marqués de Cáceres,Gaudium 2012,2012,"4,3",1137,España / Rioja,"43,86",Vino tinto,"95 % de Tempranillo, 5 % de Graciano"
+Martinet,Els Escurçons 2018,2018,"4,3",71,España / Cataluña / Priorato,"75,50",Vino tinto,100 % de Garnacha
+Castillo Perelada,Només Garnatxa Blanca 2020,2020,"3,9",148,España / Cataluña / Empordà,"7,25",Vino blanco,100 % de Garnacha Blanca
+Leyenda del Páramo,El Músico 2012,2012,"3,9",91,España / Castilla y León / Tierra de León,"21,85",Vino tinto,100 % de Prieto Picudo
+Suertes del Marqués,Sortevera Tinto 2018,2018,"3,9",51,España / Islas Canarias,"33,40",Vino tinto,"Tintilia, Vijiriega, Negramoll"
+Vega Sicilia,Valbuena 5º 2013,2013,"4,6",4881,España / Castilla y León / Ribera del Duero,"194,81",Vino tinto,100 % de Tempranillo
+D. Mateos,Valcendon Crianza 2018,2018,"3,9",58,España / Rioja,"12,95",Vino tinto,"Garnacha, Tempranillo, Graciano"
+Dominio Basconcillos,Viña Magna 6 Meses en Barrica Tempranillo 2020,2020,"4,0",45,España / Castilla y León / Ribera del Duero,12,Vino tinto,100 % de Tempranillo
+Torre de Oña,Finca San Martin Rioja Crianza 2018,2018,"3,8",742,España / Rioja,"7,01",Vino tinto,100 % de Tempranillo
+Enrique Mendoza,Estrecho Monastrell 2017,2017,"4,1",510,España / Valencia / Alicante,"18,90",Vino tinto,100 % de Monastrell
+Atalaya,Alaya Tierra (Old Vines Vieilles Vignes) 2017,2017,"4,4",1981,España / Castilla / Almansa,"21,90",Vino tinto,"Cabernet Sauvignon, Grenache"
+Tianna Negre,Ses Nines Selecció 07/9 2015,2015,"3,9",89,España / Islas Baleares / Mallorca / Binissalem-Mallorca,"14,90",Vino tinto,"Shiraz/Syrah, Cabernet Sauvignon, Merlot, Callet, Manto Negro"
+Bodegas Valdemar,Conde de Valdemar Reserva 2001,2001,"3,8",60,España / Rioja,"10,85",Vino tinto,Mazuelo
+Jiménez-Landi,Cantos del Diablo 2016,2016,"4,3",26,España / Castilla / Méntrida,"79,50",Vino tinto,100 % de Grenache
+Finca Torremilanos,Torre Albéniz Reserva Ribera del Duero 2015,2015,"4,2",647,España / Castilla y León / Ribera del Duero,"26,50",Vino tinto,100 % de Tempranillo
+El Grifo,Malvasia Seco 2019,2019,"3,7",118,España / Islas Canarias / Lanzarote,"14,90",Vino blanco,100 % de Malvasia
+Montecillo,Rioja Gran Reserva 2011,2011,"3,9",3309,España / Rioja,"18,50",Vino tinto,100 % de Tempranillo
+Coca i Fitó,Tocat de l'Ala Negre 2018,2018,"3,9",288,España / Cataluña / Empordà,"11,45",Vino tinto,"55 % de Cariñena, 35 % de Garnacha, 10 % de Shiraz/Syrah"
+Bodega Sommos,Lamin Garnacha Vinas Viejas 2017,2017,"4,0",196,España / Aragón / Calatayud,"26,75",Vino tinto,Garnacha
+VALENCISO,Rioja Reserva 2010,2010,"4,1",1781,España / Rioja,"41,50",Vino tinto,100 % de Tempranillo
+Amézola de la Mora,Viña Amézola Crianza 2017,2017,"3,7",53,España / Rioja,"8,90",Vino tinto,"90 % de Tempranillo, 10 % de Mazuelo"
+Ribera de Pelazas,Abadengo 60 Años Crianza 2006,2006,"3,9",34,España / Castilla y León,"15,40",Vino tinto,Juan Garcia
+Luis Cañas,Reserva Selección de la Familia 2014,2014,"4,3",1039,España / Rioja,"20,03",Vino tinto,100 % de Tempranillo
+Los Aguilares,Pago El Espino 2019,2019,"4,3",234,España / Andalucía / Sierras de Málaga,"18,90",Vino tinto,"72 % de Petit Verdot, 19 % de Shiraz/Syrah, 9 % de Tempranillo"
+Hispano Suizas,Impromptu Rosé 2020,2020,"4,0",31,España / Valencia,"21,76",Vino rosado,100 % de Pinot Noir
+Parxet,Cava Reserva Brut 2018,2018,"3,9",50,España / Cava,"10,85",Vino espumoso,"Xarel-lo, Parellada, Macabeo"
+Gramona,Mart Xarel-lo Vermell 2018,2018,"3,8",119,España / Cataluña / Penedès,"11,40",Vino rosado,Xarel-lo
+Viña Zorzal,Graciano 2020,2020,"3,5",47,España / Navarra,"7,80",Vino tinto,100 % de Grenache
+Clos Mogador,Priorat 2016,2016,"4,5",834,España / Cataluña / Priorato,"73,90",Vino tinto,100 % de Garnacha
+Gargalo,Godello 2019,2019,"3,8",233,España / Galicia / Monterrei,"11,95",Vino blanco,Godello
+Condes de Albarei,Albariño 2013,2013,"3,7",587,España / Galicia / Rías Baixas,"8,25",Vino blanco,100 % de Albariño
+Abadal,5 Merlot 2018,2018,"3,9",42,España / Cataluña / Pla de Bages,"14,89",Vino tinto,100 % de Merlot
+Sotero Pintado,Totem 12 Meses 2013,2013,"3,9",43,España / Castilla y León,"21,35",Vino tinto,Tinto Fino
+Contino,Rioja Garnacha 2018,2018,"4,1",146,España / Rioja,"26,24",Vino tinto,100 % de Garnacha
+Familia Torres,Verdeo Verdejo 2020,2020,"3,6",571,España / Castilla y León / Rueda,"6,20",Vino blanco,100 % de Verdejo
+Jiménez-Landi,El Reventón Cebreros 2016,2016,"4,3",42,España / Castilla y León,"89,90",Vino tinto,100 % de Grenache
+Ànima Negra,Son Negre 2005,2005,"4,5",44,España / Islas Baleares / Mallorca,"164,90",Vino tinto,100 % de Callet
+Sumarroca,Tuví Or Not To Be 2020,2020,"3,9",152,España / Cataluña / Penedès,"8,95",Vino blanco,"Gewürztraminer, Riesling, Viognier, Xarel-lo"
+Yllera,12 Meses en Barrica Tempranillo 2013,2013,"3,6",1050,España / Castilla y León / Ribera del Duero,"5,99",Vino tinto,Tempranillo
+Adega Ponte da Boga,Godello 2019,2019,"3,9",173,España / Galicia / Ribeira Sacra,"12,50",Vino blanco,100 % de Godello
+El Coto,Coto Real Reserva 2014,2014,"3,7",187,España / Rioja,"24,90",Vino tinto,"Garnacha Tinta, Tempranillo"
+Viñas del Vero,Blecua Somontano 2014,2014,"4,4",55,España / Aragón / Somontano,"76,95",Vino tinto,100 % de Cabernet Sauvignon
+Dominio Basconcillos,Viña Magna Reserva 2016,2016,"4,5",32,España / Castilla y León / Ribera del Duero,"35,88",Vino tinto,100 % de Tempranillo
+Marqués de la Concordia,Crianza Rioja 2015,2015,"3,7",780,España / Rioja,"6,47",Vino tinto,100 % de Tempranillo
+Avancia,Cuvée de O Godello 2019,2019,"3,9",186,España / Galicia / Valdeorras,"15,95",Vino blanco,100 % de Godello
+Bodegas Virgen de Galir,Maruxa Godello 2020,2020,"3,8",296,España / Galicia / Valdeorras,"8,99",Vino blanco,100 % de Godello
+Obalo,Joven Rioja 2012,2012,"3,3",94,España / Rioja,"7,40",Vino tinto,100 % de Tempranillo
+Tritium,Las Garnacha de Tritium 2019,2019,"4,0",48,España / Rioja,"9,72",Vino tinto,Garnacha
+Artadi,Viña El Pison 2007,2007,"4,4",157,España / Vino de España,390,Vino de España,100 % de Tempranillo
+Amézola de la Mora,Viña Amézola Crianza 2016,2016,"3,6",292,España / Rioja,"6,98",Vino tinto,"85 % de Tempranillo, 10 % de Mazuelo, 5 % de Graciano"
+Parés Baltà,Marta De Baltà Syrah 2014,2014,"4,2",50,España / Cataluña / Penedès,"51,95",Vino tinto,Shiraz/Syrah
+Clos Mogador,Nelin Priorat 2016,2016,"4,3",325,España / Cataluña / Priorato,"44,50",Vino blanco,100 % de Garnacha Blanca
+Cuatro Rayas,Vendimia Nocturna Verdejo 2021,2021,"3,7",146,España / Castilla y León / Rueda,"5,90",Vino blanco,Verdejo
+Izadi,Larrosa Blanc 2019,2019,"3,7",78,España / Rioja,"7,50",Vino blanco,100 % de Garnacha Blanca
+De Moya,Tibó Blanco 2019,2019,"3,9",151,España / Valencia,"6,50",Vino blanco,Moscatel
+Diez Caballero,Victoria 2012,2012,"4,1",54,España / Rioja,"17,45",Vino tinto,100 % de Tempranillo
+El Sacramento,Tinto 2013,2013,"4,2",64,España / Rioja,"39,95",Vino tinto,Tempranillo
+Bodegas Mas Alta,Cirerets 2018,2018,"4,4",260,España / Cataluña / Priorato,"40,30",Vino tinto,100 % de Cariñena
+Bodega Monasterio de Corias,Escolinas Albarín Blanco 2019,2019,"4,1",25,España / Asturias / Cangas,"19,60",Vino blanco,Albarin Blanco
+Palacios Remondo,Propiedad Rioja 2017,2017,"4,2",581,España / Rioja,"25,90",Vino tinto,100 % de Garnacha
+Matarromera,Ribera del Duero Prestigio Pago de las Solanas 2001,2001,"4,6",147,España / Castilla y León / Ribera del Duero,"219,25",Vino tinto,Tempranillo
+Mas Foraster,Josep Foraster Trepat 2021,2021,"3,7",59,España / Cataluña / Conca de Barberà,"13,45",Vino tinto,Trepat
+Ca N'Estella,Clot Dels Oms Blanco 2020,2020,"3,6",42,España / Cataluña / Penedès,"6,80",Vino blanco,"Chardonnay, Malvasia"
+Obalo,Joven Rioja 2016,2016,"3,8",163,España / Rioja,"15,50",Vino tinto,100 % de Tempranillo
+Legaris,Ribera del Duero Crianza 2019,2019,"3,9",158,España / Castilla y León / Ribera del Duero,"15,90",Vino tinto,"90 % de Tempranillo, 10 % de Cabernet Sauvignon"
+Bermejo,Diego Seco 2018,2018,"3,9",41,España / Islas Canarias / Lanzarote,"19,50",Vino blanco,Vijiriega
+Troç d'En Ros,La Bèstia Blanca 2016,2016,"4,2",30,España / Cataluña / Empordà,"20,81",Vino blanco,Xarel-lo
+Valdespino,Tres Cortados Medium Dry N.V.,7251,"3,8",28,España / Andalucía / Jerez-Xérès-Sherry,"6,68",Vino fortificado,"Palomino, Pedro Ximenez"
+Territorio Luthier,Lara O 2015,2015,"4,1",83,España / Castilla y León / Ribera del Duero,14,Vino tinto,100 % de Tempranillo
+Celler Piñol,L'Avi Arrufi 2016,2016,"3,9",79,Terra Alta,"18,60",Vino tinto,100 % de Garnacha Blanca
+Vins Miquel Gelabert,Torrent Negre 2014,2014,"4,2",37,España / Islas Baleares / Mallorca / Plà i Llevant,"20,06",Vino tinto,"Cabernet Sauvignon, Cabernet Franc, Merlot, Shiraz/Syrah"
+Muga,Torre Muga 2005,2005,"4,3",476,España / Rioja,65,Vino tinto,100 % de Tempranillo
+J. Fernando,Verdejo 2020,2020,"3,6",112,España / Castilla y León / Rueda,"6,50",Vino blanco,Verdejo
+Pazos de Lusco,Lusco Albariño 2019,2019,"3,9",188,España / Galicia / Rías Baixas,"16,27",Vino blanco,100 % de Albariño
+Amor Per La Terra,El Torrent de la Bruixa 2019,2019,"3,8",28,España / Cataluña / Empordà,"32,68",Vino espumoso,"Macabeo, Xarel-lo, Parellada"
+Equipo Navazos,La Bota de Manzanilla 93 Navazos N.V.,7280,"3,9",83,España / Andalucía / Jerez-Xérès-Sherry / Manzanilla,"26,50",Vino fortificado,100 % de Palomino
+Familia Torres,Atrium Chardonnay 2020,2020,"3,6",74,España / Cataluña / Penedès,"8,95",Vino blanco,100 % de Chardonnay
+Finca Los Aljibes,Red 2017,2017,"3,6",63,España / Castilla,"12,50",Vino tinto,"Cabernet Franc, Merlot, Cabernet Sauvignon"
+Espelt,Mareny 2020,2020,"3,8",86,España / Cataluña / Empordà,"7,35",Vino blanco,"Sauvignon Blanc, Garnacha Blanca"
+Fernando de Castilla,Classic Dry Amontillado Sherry N.V.,3644,"3,7",177,España / Andalucía / Jerez-Xérès-Sherry,"15,99",Vino fortificado,Palomino
+Viña Bujanda,Rioja Crianza 2017,2017,"3,6",403,España / Rioja,"6,35",Vino tinto,100 % de Tempranillo
+Pardevalles,Gamonal 2018,2018,"3,9",65,España / Castilla y León / Tierra de León,"12,05",Vino tinto,Prieto Picudo
+Bodegas Cosme Palacio,Glorioso Rioja Crianza 2016,2016,"3,7",1073,España / Rioja,"11,39",Vino tinto,100 % de Tempranillo
+Pradorey,Adaro 2017,2017,"4,2",457,España / Castilla y León / Ribera del Duero,"20,95",Vino tinto,100 % de Tempranillo
+Bodega Sommos,Varietales Tinto 2019,2019,"3,9",283,España / Aragón / Somontano,"8,30",Vino tinto,"45 % de Tempranillo, 35 % de Merlot, 20 % de Shiraz/Syrah"
+Castillo Perelada,Finca La Garriga 2016,2016,"4,1",204,España / Cataluña / Empordà,"15,50",Vino tinto,100 % de Samsó
+Carlos Moro,Finca Valdehierro Tempranillo 16 Meses Barrica 2014,2014,"4,0",71,España / Castilla y León / Cigales,"26,80",Vino tinto,100 % de Tempranillo
+Ysios,Finca Las Naves 2016,2016,"4,6",67,España / Rioja,149,Vino tinto,Tempranillo
+Diez Caballero,Reserva Tempranillo 2012,2012,"3,9",263,España / Rioja,"9,90",Vino tinto,100 % de Tempranillo
+Coma d'En Bonet,Prohom Experientia Negre 2018,2018,"3,9",161,España / Cataluña / Terra Alta,"10,50",Vino tinto,"Shiraz/Syrah, Cabernet Sauvignon, Cariñena, Garnacha"
+Terroir Al Límit Soc. Lda,Torroja 2017,2017,"3,9",594,España / Cataluña / Priorato,"30,31",Vino tinto,"50 % de Cariñena, 50 % de Garnacha"
+Familia Torres,Gran Sangre de Toro Reserva 2010,2010,"3,6",2414,España / Cataluña,"11,83",Vino tinto,"Garnacha Tinta, Shiraz/Syrah, Cariñena"
+Joan d'Anguera,Finca l'Argatà 2018,2018,"3,9",48,España / Cataluña / Tarragona / Montsant,"23,55",Vino tinto,100 % de Garnacha
+Bodegas Mauro,Godello Blanco 2020,2020,"4,2",82,España / Castilla y León / Bierzo,"40,70",Vino blanco,100 % de Godello
+Bodegas El Paraguas,La Sombrilla 2016,2016,"4,1",62,España / Galicia / Ribeiro,"34,50",Vino blanco,"Godello, Albariño, Treixadura"
+Finca Villacreces,Ribera del Duero 2015,2015,"3,9",1070,España / Castilla y León / Ribera del Duero,"24,95",Vino tinto,"86 % de Tinto Fino, 10 % de Cabernet Sauvignon, 4 % de Merlot"
+Muga,Torre Muga 2016,2016,"4,5",1003,España / Rioja,65,Vino tinto,100 % de Tempranillo
+Fos,Blanco 2016,2016,"3,8",31,España / Rioja,"8,50",Vino blanco,Viura
+Pagos de Aráiz,Joven 2020,2020,"3,3",46,España / Navarra,"3,50",Vino tinto,"Tempranillo, Garnacha"
+Oliver Conti,Indispensable Blanc 2020,2020,"3,6",149,España / Cataluña / Empordà,"5,90",Vino blanco,100 % de Garnacha Blanca
+Albet i Noya,Efecte Classic Penedès Brut Reserva 2018,2018,"3,9",74,España / Cataluña / Penedès,"12,20",Vino espumoso,"Chardonnay, Macabeo, Xarel-lo, Parellada"
+Martinez Alesanco,Reserva 2016,2016,"3,7",137,España / Rioja,"13,90",Vino tinto,"Tempranillo, Garnacha"
+Pago de Cirsus,Selección de Familia 2017,2017,"3,9",27,España / Navarra,"18,50",Vino tinto,"Shiraz/Syrah, Tempranillo"
+Casa Rojo,La Gabacha Sauvignon Blanc 2020,2020,"3,8",254,España / Castilla y León / Rueda,"8,25",Vino blanco,100 % de Sauvignon Blanc
+Clos Figueras,Serras del Priorat 2019,2019,"4,1",192,España / Cataluña / Priorato,"18,95",Vino tinto,100 % de Cariñena
+Can Sumoi,La Rosa 2019,2019,"3,6",270,España / Cataluña / Penedès,"11,65",Vino rosado,"50 % de Sumoll, 30 % de Parellada, 20 % de Xarel-lo"
+Marqués de Riscal,Rioja Reserva 2002,2002,"4,0",457,España / Rioja,33,Vino tinto,Tempranillo
+Sierra Cantabria,Rosado 2019,2019,"3,8",43,España / Rioja,"6,03",Vino rosado,100 % de Tempranillo
+Muga,Prado Enea Gran Reserva 2009,2009,"4,3",2942,España / Rioja,"58,68",Vino tinto,100 % de Tempranillo
+Altos Ibéricos,Crianza 2018,2018,"3,7",187,España / Rioja,"6,16",Vino tinto,100 % de Tempranillo
+Finca Nueva,Reserva 2010,2010,"3,8",110,España / Rioja,"17,70",Vino tinto,100 % de Tempranillo
+Familia Torres,Waltraud Riesling 2019,2019,"4,1",274,España / Cataluña / Penedès,"17,99",Vino blanco,100 % de Riesling
+Cal Grau,La Petite Agnès 2015,2015,"3,7",711,España / Cataluña / Priorato,"10,85",Vino tinto,"Carignan, Grenache"
+Adamá Wines,Tinto 2010,2010,"4,5",82,España / Castilla y León / Ribera del Duero,35,Vino tinto,Tempranillo
+Aroa,Le Naturel Red 2020,2020,"3,8",1103,España / Navarra,"8,30",Vino tinto,100 % de Garnacha
+Bodegas Cosme Palacio,Cosme Palacio Crianza Viñedos en Altitud 2017,2017,"3,9",445,España / Rioja,"14,50",Vino tinto,100 % de Tempranillo
+Terras Gauda,Abadía de San Campio 2019,2019,"4,0",2434,España / Galicia / Rías Baixas,"12,49",Vino blanco,100 % de Albariño
+Abadal,3.9 2016,2016,"4,2",452,España / Cataluña / Pla de Bages,"56,55",Vino tinto,100 % de Cabernet Sauvignon
+Raúl Pérez,Ultreia Saint Jacques Mencía 2019,2019,"3,9",870,España / Castilla y León / Bierzo,"11,15",Vino tinto,100 % de Mencia
+Viña Meín,Tinto 2018,2018,"3,8",71,España / Galicia / Ribeiro,"22,30",Vino tinto,"Lado, Godello, Albariño, Treixadura, Torrontés"
+Rafael Palacios,As Sortes Val do Bibei Godello 2019,2019,"4,4",373,España / Galicia / Valdeorras,149,Vino blanco,100 % de Godello
+Astrales,Albariño 2020,2020,"3,9",35,España / Galicia / Rías Baixas,"17,50",Vino blanco,Albariño
+Albamar,Albariño 2020,2020,"4,0",858,España / Galicia / Rías Baixas,21,Vino blanco,100 % de Albariño
+Gaintza,Getariako Txakolina 2021,2021,"3,8",30,España / País Vasco / Getariako Txakolina,"8,50",Vino blanco,Hondarrabi Zuri
+Pago de Los Capellanes,O Luar do Sil Valdeorras Godello Sobre Lias 2017,2017,"4,1",385,España / Galicia / Valdeorras,"19,17",Vino blanco,100 % de Godello
+Figuero,Viñas Viejas 2018,2018,"4,3",237,España / Castilla y León / Ribera del Duero,"25,85",Vino tinto,100 % de Tempranillo
+Rovellats,Bru de Tardor 2014,2014,"3,4",31,España / Cataluña / Penedès,"11,34",Vino tinto,"Cabernet Sauvignon, Merlot"
+Telmo Rodriguez,O Barreiro Gaba do Xil Blanco 2021,2021,"4,1",80,España / Galicia / Valdeorras,"13,30",Vino blanco,Godello
+Alcorta,Marques de Villamagna Crianza 2012,2012,"3,7",55,España / Rioja,"10,60",Vino tinto,100 % de Tempranillo
+Vinyes Domenech,Boig per Tu 2018,2018,"3,9",150,España / Cataluña / Tarragona / Montsant,"12,64",Vino tinto,100 % de Garnacha
+Can Bas,D’Origen P9 Cabernet Sauvignon 2017,2017,"4,0",54,España / Cataluña / Penedès,"16,75",Vino tinto,Cabernet Sauvignon
+Bodega Dussart Pedrón,Le Bobal 2019,2019,"3,9",55,España / Valencia,"17,85",Vino tinto,Bobal
+Bodegas Garcia de Lara,La Cueva Colora Cencibel 2019,2019,"4,0",31,España / Castilla,"16,50",Vino tinto,Cencibel
+Cota 45,UBE de Ubérrima Paganilla 2020,2020,"4,1",41,España / Vino de España,"18,95",Vino de España,Palomino
+Carles Andreu,12 @ Trepat 2020,2020,"3,5",34,España / Cataluña / Conca de Barberà,"8,30",Vino tinto,Trepat
+Requiem Hispania,Re Minor 2018,2018,"3,5",119,España / Castilla y León / Ribera del Duero,"9,95",Vino tinto,Tempranillo
+Bodegas Ximénez-Spínola,Original Exceptional Harvest 2020,2020,"4,2",66,España / Andalucía / Jerez-Xérès-Sherry,"16,50",Vino fortificado,100 % de Pedro Ximenez
+Raimat,Pirinenca Tempranillo 2019,2019,"3,6",40,España / Cataluña,"9,35",Vino tinto,Tempranillo
+Tridente,Mencia 2014,2014,"3,6",334,España / Castilla y León,"9,20",Vino tinto,100 % de Mencia
+Dehesa del Carrizal,Cabernet Sauvignon 2016,2016,"4,1",233,España / Castilla / Dehesa del Carrizal,"14,48",Vino tinto,100 % de Cabernet Sauvignon
+Bach,Extrísimo Semi Dulce 2020,2020,"3,5",281,España / Cataluña,"3,85",Vino blanco,"Macabeo, Xarel-lo"
+Vinsnus,SiurAlta Gris 2019,2019,"3,7",48,España / Cataluña / Tarragona / Montsant,"28,60",Vino blanco,Grenache Gris
+Marqués de Murrieta,Dalmau Rioja 2014,2014,"4,5",660,España / Rioja,"84,95",Vino tinto,100 % de Tempranillo
+Mesta,Verdejo 2016,2016,"3,5",929,España / Castilla / Uclés,"3,94",Vino blanco,100 % de Tempranillo
+La Vizcaína,Las Gundiñas (Lomas de Valtuille) 2019,2019,"4,0",85,España / Castilla y León / Bierzo,"21,90",Vino tinto,100 % de Mencia
+Bodegas Bordoy,Sa Rota Crianza 2016,2016,"3,8",36,España / Islas Baleares / Mallorca / Plà i Llevant,"9,99",Vino tinto,"Shiraz/Syrah, Cabernet Sauvignon, Merlot"
+Quinta Sardonia,QS 2014,2014,"4,3",370,España / Castilla y León,"34,50",Vino tinto,100 % de Tinto Fino
+Recaredo,Intens Rosat Brut Nature 2018,2018,"4,1",125,España / Cataluña / Penedès,"21,20",Vino espumoso,"Pinot Noir, Monastrell, Garnacha"
+Dosterras,Finca Aiguasals 2016,2016,"4,0",46,España / Cataluña / Tarragona / Montsant,"29,90",Vino tinto,Cariñena
+Protos,Ecológico Verdejo 2019,2019,"4,1",44,España / Castilla y León / Rueda,"7,58",Vino blanco,100 % de Verdejo
+Finca Parera,Fosc 2020,2020,"3,8",74,España / Cataluña / Penedès,"9,90",Vino tinto,"Shiraz/Syrah, Ull de Llebre, Sumoll"
+Más Que Vinos,El Señorito de Ercavio 2016,2016,"4,0",63,España / Castilla,"16,95",Más Que Vinos,Tempranillo
+Romate,Viva la Pepa Manzanilla N.V.,6966,"3,6",378,España / Andalucía / Jerez-Xérès-Sherry / Manzanilla,,Vino fortificado,Palomino
+Enrique Mendoza,Finca Xaconero Monastrell 2017,2017,"4,0",665,España / Valencia / Alicante,"11,75",Vino tinto,100 % de Monastrell
+Bodegas Martín Códax,Rías Baixas Albariño 2021,2021,"3,9",394,España / Galicia / Rías Baixas,"11,88",Vino blanco,100 % de Albariño
+Dominio del Águila,Pícaro Viñas Viejas 2019,2019,"4,1",1506,España / Castilla y León / Ribera del Duero,"24,75",Vino tinto,100 % de Tempranillo
+Baigorri,Crianza Tempranillo 2017,2017,"3,9",995,España / Rioja,"13,88",Vino tinto,"90 % de Tempranillo, 10 % de Garnacha"
+Ossian,Viñas Viejas Verdejo 2015,2015,"4,2",780,España / Castilla y León,49,Vino blanco,100 % de Verdejo
+Cune (CVNE),Gran Reserva 2008,2008,"3,9",1048,España / Rioja,"17,60",Vino tinto,Tempranillo
+Acustic Celler,Auditori 2013,2013,"4,2",203,España / Cataluña / Tarragona / Montsant,"43,90",Vino tinto,100 % de Garnacha
+José Pariente,Cuvée Especial Verdejo 2018,2018,"4,1",28,España / Castilla y León / Rueda,"25,45",Vino blanco,100 % de Verdejo
+I Tant,Garnatxa Negra 2018,2018,"3,6",211,España / Cataluña / Tarragona / Montsant,"9,75",Vino tinto,Grenache
+Marqués de Murrieta,Reserva Rioja (Finca Ygay) 1988,1988,"4,6",47,España / Rioja,"113,88",Vino tinto,"Garnacha, Tempranillo, Mazuelo, Graciano"
+Agusti Torello Mata,Xic Xarel-lo 2020,2020,"3,6",141,España / Cataluña / Penedès,"6,40",Vino blanco,100 % de Xarel-lo
+Alta Alella,Capsigrany Natural Rosé 2016,2016,"4,0",78,España / Cava,"20,60",Vino espumoso,100 % de Xarel-lo
+Jané Ventura,Reserva de la Música Brut Nature 2018,2018,"3,7",30,España / Cava,"9,52",Vino espumoso,100 % de Macabeo
+Cayetano del Pino,Amontillado N.V.,6987,"4,2",254,España / Andalucía / Jerez-Xérès-Sherry / Jerez Amontillado,,Vino fortificado,Palomino
+Enate,Gewürztraminer Dulce 2018,2018,"4,2",37,España / Aragón / Somontano,"12,50",Vino de postre,Gewürztraminer
+Remírez de Ganuza,Gran Reserva 2007,2007,"4,5",530,España / Rioja,"113,29",Vino tinto,"Tempranillo, Graciano"
+Bodegas Clunia,Syrah 2016,2016,"4,0",204,España / Castilla y León,"12,64",Vino tinto,100 % de Shiraz/Syrah
+Maguila,Cachito Mío Toro 2016,2016,"4,1",61,España / Castilla y León / Toro,"16,45",Vino tinto,Tinta de toro
+Patrocinio,Zinio Crianza Tempranillo 2015,2015,"3,7",70,España / Rioja / Rioja Alta,"8,66",Vino tinto,100 % de Tempranillo
+Familia Torres,Gran Viña Sol Chardonnay 2021,2021,"3,7",66,España / Cataluña / Penedès,"11,16",Vino blanco,"85 % de Chardonnay, 15 % de Parellada"
+Loxarel,Mas Cargols Pinot Noir 2008,2008,"3,2",37,España / Cataluña / Penedès,"11,10",Vino tinto,Pinot Noir
+Martinet,Clos Martinet 2006,2006,"4,3",210,España / Cataluña / Priorato,"62,40",Vino tinto,100 % de Garnacha
+Voché,Crianza 2017,2017,"3,9",139,España / Rioja,"14,95",Vino tinto,100 % de Graciano
+Blanco Nieva,Pie Franco Verdejo 2021,2021,"3,9",26,España / Castilla y León / Rueda,"10,78",Vino blanco,100 % de Verdejo
+Bodegas Olarra,Añares Crianza Rioja 2019,2019,"3,7",117,España / Rioja,"5,61",Vino tinto,"Tempranillo, Mazuelo, Graciano, Garnacha"
+Volver,Rafael Cañizares Sauvignon Blanc 2020,2020,"4,0",26,España / Valencia / Alicante,"7,59",Vino blanco,100 % de Sauvignon Blanc
+Jose Antonio García,Aires de Vendimia Godello 2016,2016,"3,9",29,España / Castilla y León / Bierzo,"51,40",Vino blanco,Godello
+Lustau,Papirusa Manzanilla (Solera Reserva) N.V.,3611,"3,6",2041,España / Andalucía / Jerez-Xérès-Sherry / Manzanilla,"9,45",Vino fortificado,100 % de Palomino
+Avgvstvs,Chardonnay 2021,2021,"4,1",53,España / Cataluña / Penedès,"17,69",Vino blanco,100 % de Chardonnay
+Señorío de Libano,Solar de Libano Reserva 2014,2014,"3,7",86,España / Rioja,"11,80",Vino tinto,"Tempranillo, Graciano, Garnacha"
+Remelluri,Lindes de Remelluri Viñedos de Labastida 2017,2017,"4,0",223,España / Rioja,"14,10",Vino tinto,100 % de Tempranillo
+Bodegas Mas Alta,La Creu Alta 2014,2014,"4,5",57,España / Cataluña / Priorato,"87,95",Vino tinto,"Grenache, Carignan"
+Destinos Cruzados,As Regadas 2016,2016,"3,8",27,España / Galicia / Rías Baixas,"17,95",Vino tinto,Mencia
+Baron de Ley,Rioja Reserva 2015,2015,"3,9",4364,España / Rioja,"10,85",Vino tinto,100 % de Tempranillo
+Marqués de Murrieta,Gran Reserva Rioja (Finca Ygay) 2011,2011,"4,3",1142,España / Rioja,"94,95",Vino tinto,100 % de Tempranillo
+Más Que Vinos,La Plazuela 2015,2015,"4,3",170,España / Castilla,"38,34",Más Que Vinos,"80 % de Tempranillo, 20 % de Garnacha Tintorera"
+Viña Bujanda,Rioja Crianza 2018,2018,"3,7",264,España / Rioja,"5,85",Vino tinto,100 % de Tempranillo
+Ladairo,Mencía - Arauxa 2021,2021,"3,7",41,España / Galicia / Monterrei,"7,60",Vino tinto,"Tempranillo, Mencia"
+4 Kilos Vinícola,4 Kilos 2012,2012,"4,0",375,España / Islas Baleares / Mallorca,"30,09",Vino tinto,100 % de Callet
+Arzuaga,Reserva Ribera del Duero 2018,2018,"4,4",328,España / Castilla y León / Ribera del Duero,"32,15",Vino tinto,100 % de Merlot
+Aizpurua.B,Aialle 2019,2019,"4,0",58,España / País Vasco / Getariako Txakolina,"11,95",Vino blanco,Hondarrabi Zuri
+Lustau,Península Palo Cortado Sherry (Solera Reserva) N.V.,3615,"3,9",635,España / Andalucía / Jerez-Xérès-Sherry,"14,90",Vino fortificado,100 % de Palomino
+Cantalapiedra Viticultores,Arenisca 2020,2020,"4,0",34,España / Castilla y León / Toro,"12,90",Vino tinto,Tinta de toro
+Do Ferreiro (Bodegas Gerardo Mendez),Rias Baixas Albariño 2017,2017,"4,0",884,España / Galicia / Rías Baixas,"13,75",Vino blanco,100 % de Albariño
+Jordi Oliver Conti,De Cap a Peus 2019,2019,"3,7",40,Empordà,"8,95",Vino blanco,"Macabeo, Garnacha Blanca"
+Viña Ijalba,Maturana Tinta 2017,2017,"4,1",51,España / Rioja,"18,90",Vino tinto,Maturana Tinta
+Llopart,Cava Integral Brut Nature 2018,2018,"3,8",45,España / Cava,"13,95",Vino espumoso,"Parellada, Chardonnay, Xarel-lo"
+Legaris,Rueda Verdejo 2019,2019,"3,6",318,España / Castilla y León / Rueda,"6,50",Vino blanco,100 % de Verdejo
+Raimat,Anima de Raimat Blanco 2019,2019,"3,7",316,Costers del Segre,"7,89",Vino blanco,"Chardonnay, Xarel-lo"
+Els Vinyerons,Lluerna Xarel-lo 2021,2021,"3,7",79,España / Cataluña / Penedès,"8,65",Vino blanco,100 % de Xarel-lo
+El Angosto,La Tribuna 2020,2020,"3,5",27,España / Valencia,"5,65",Vino tinto,"Shiraz/Syrah, Monastrell, Garnacha"
+Williams & Humbert,Don Zoilo 12 Years Old Palo Cortado Sherry N.V.,8876,"4,0",27,España / Andalucía / Jerez-Xérès-Sherry / Jerez Palo Cortado,"17,90",Vino fortificado,Palomino
+Borsao Bodegas,Berola 2014,2014,"3,9",1170,España / Aragón / Campo de Borja,"11,95",Vino tinto,"70 % de Grenache, 20 % de Shiraz/Syrah, 10 % de Cabernet Sauvignon"
+Campillo,Finca Cuesta Clara Raro Reserva 2011,2011,"4,3",200,España / Rioja,"38,20",Vino tinto,Tempranillo
+Cérvoles,Colors Blanc 2019,2019,"3,6",140,España / Cataluña / Costers del Segre,"8,45",Vino blanco,"Petit Manseng, Albariño, Chardonnay"
+Toro Albalá,Don PX Pedro Ximenez 1999,1999,"4,3",81,España / Andalucía / Montilla-Moriles,"45,50",Vino fortificado,100 % de Pedro Ximenez
+Protos,Verdejo Reserva 2019,2019,"4,0",77,España / Castilla y León / Rueda,"18,95",Vino blanco,100 % de Verdejo
+VallDolina,Cava Tutusaus Gran Reserva Brut Nature 2017,2017,"3,8",96,España / Cava,"11,50",Vino espumoso,100 % de Macabeo
+Fariña,Crianza 2017,2017,"3,7",38,España / Castilla y León / Toro,"15,20",Vino tinto,Tinta de toro
+AT Roca,Rosat Reserva Brut 2019,2019,"3,8",42,España / Cataluña / Penedès,"12,15",Vino espumoso,"50 % de Macabeo, 50 % de Garnacha"
+Basilio Izquierdo,B de Basilio Blanco 2011,2011,"3,9",35,España / Rioja,"51,88",Vino blanco,"Viura, Garnacha Blanca"
+Torre de Barreda,Syrah 2015,2015,"3,6",25,España / Castilla,"6,50",Vino tinto,Shiraz/Syrah
+Amastros,Crianza 2017,2017,"3,5",76,España / Rioja,"13,95",Vino tinto,Tempranillo
+Ramón do Casar,Blanco 2021,2021,"4,0",40,España / Galicia / Ribeiro,"11,25",Vino blanco,"Godello, Albariño, Treixadura"
+7 Magnífics,Rebels de Batea Blanc 2019,2019,"3,9",304,España / Cataluña / Terra Alta,"8,75",Vino blanco,100 % de Garnacha Blanca
+Proyecto Garnachas de España,La Garnacha Olvidada de Aragón 2017,2017,"3,8",467,España / Aragón,"10,60",Vino tinto,100 % de Garnacha
+Equipo Navazos,Ovni Palomino Fino 2018,2018,"3,3",136,España / Andalucía / Montilla-Moriles,"13,20",Vino blanco,100 % de Palomino
+Hidalgo (La Gitana),Manzanilla Pasada Pastrana N.V.,4504,"3,7",1032,España / Andalucía / Jerez-Xérès-Sherry / Manzanilla,"15,04",Vino fortificado,100 % de Palomino
+Noelia Bebelia,Albariño 2019,2019,"4,3",170,España / Galicia / Rías Baixas,"12,90",Vino blanco,100 % de Albariño
+Paco & Lola,Ophalum Albariño 2020,2020,"3,8",198,España / Galicia / Rías Baixas,"8,20",Vino blanco,100 % de Albariño
+Miquel Pons,77 Veremes Xarel-lo Fermentat en Barrica 2019,2019,"3,8",27,España / Cataluña / Penedès,"9,90",Vino blanco,Xarel-lo
+Mas d'en Gil,Vi de Villa Bellmunt Priorat Tinto 2017,2017,"4,0",388,España / Cataluña / Priorato,"17,50",Vino tinto,"Grenache, Cariñena, Cabernet Sauvignon"
+Gran Feudo,Rosado 2021,2021,"3,4",97,España / Navarra,"3,69",Vino rosado,Garnacha Tinta
+El Miracle,Art 2020,2020,"3,5",25,España / Valencia / Alicante,"10,15",Vino tinto,"Shiraz/Syrah, Merlot, Tempranillo, Monastrell"
+Viñas del Vero,Blecua Somontano 2004,2004,"4,4",90,España / Aragón / Somontano,"73,90",Vino tinto,"Tempranillo, Cabernet Sauvignon"
+Marqués de Riscal,Rioja Reserva 1964,1964,"4,3",29,España / Rioja,80,Vino tinto,Tempranillo
+Bodegas Valdelana,Familia Valdelana Reserva 2017,2017,"3,9",36,España / Rioja,"11,95",Vino tinto,Tempranillo
+Hacienda Zorita Natural Reserve,Abascal Vineyard Crianza 2018,2018,"3,6",68,España / Castilla y León / Ribera del Duero,"10,50",Vino tinto,100 % de Tempranillo
+Finca Villacreces,Ribera del Duero 2017,2017,"4,1",428,España / Castilla y León / Ribera del Duero,"21,79",Vino tinto,100 % de Tinto Fino
+Señorío de Sarria,Crianza 2018,2018,"3,4",39,España / Navarra,"5,20",Vino tinto,"Cabernet Sauvignon, Tempranillo"
+Enate,Chardonnay Fermentado en Barrica 2019,2019,"4,3",749,España / Aragón / Somontano,"16,90",Vino blanco,100 % de Chardonnay
+Divina Proporción,Madremía 2018,2018,"3,8",734,España / Castilla y León / Toro,"9,68",Vino tinto,100 % de Tinta de toro
+Rotllan Torra,Crianza 2014,2014,"3,7",65,España / Cataluña / Priorato,"8,98",Vino tinto,"Cabernet Sauvignon, Mazuelo, Garnacha"
+Matsu,El Picaro 2018,2018,"3,9",4702,España / Castilla y León / Toro,"8,15",Vino tinto,100 % de Tinta de toro
+Bodega Tandem,Ars memoria 2012,2012,"4,1",53,España / Navarra,"33,90",Vino tinto,100 % de Cabernet Sauvignon
+Casa Aurora,Clos Pepin 2019,2019,"3,7",28,España / Castilla y León / Bierzo,"10,90",Vino tinto,"Palomino, Garnacha, Garnacha Tinta, Trousseau, Mencia"
+Abadía Retuerta,Pago Valdebellón 2015,2015,"4,3",599,España / Castilla y León / Sardón de Duero,"63,95",Vino tinto,100 % de Cabernet Sauvignon
+Imperial,Rioja Reserva 1982,1982,"4,3",42,España / Rioja,"56,60",Vino tinto,Tempranillo
+Tobelos,Blanco 2014,2014,"3,7",51,España / Rioja,9,Vino blanco,"Sauvignon Blanc, Viura, Garnacha Blanca"
+Telmo Rodriguez,Pegaso Zeta 2016,2016,"3,8",140,España / Castilla y León,"13,25",Vino tinto,100 % de Garnacha
+Enrique Mendoza,Estrecho Monastrell 2016,2016,"3,9",341,España / Valencia / Alicante,"18,90",Vino tinto,100 % de Monastrell
+Vega Sicilia,Valbuena 5º 1985,1985,"4,6",148,España / Castilla y León / Ribera del Duero,285,Vino tinto,"Tinto Fino, Merlot"
+Can Majoral,Butibalausi Rosat 2019,2019,"3,8",48,España / Islas Baleares / Mallorca / Plà i Llevant,"8,05",Vino rosado,"Shiraz/Syrah, Tempranillo, Callet"
+Bienbebido,Come Pulpo y Bebe Vino 2017,2017,"3,4",172,España / Vino de España,"5,90",Come Pulpo y Bebe Vino,100 % de Albariño
+Nebla,Tempranillo Roble 2019,2019,"3,7",258,España / Castilla y León / Ribera del Duero,"8,75",Vino tinto,Tempranillo
+Enrique Mendoza,Las Quebradas Monastrell 2018,2018,"4,0",262,España / Valencia / Alicante,"21,75",Vino tinto,100 % de Monastrell
+Sierra de Toloño,Raposo Villabuena de Álava Tempranillo 2017,2017,"3,8",142,España / Rioja,"19,90",Vino tinto,Tempranillo
+Celler Mas Pòlit,Terra Indika 2019,2019,"3,7",30,España / Cataluña / Empordà,"6,88",Vino tinto,"Shiraz/Syrah, Cabernet Sauvignon, Grenache, Monastrell, Moscatel"
+Viña Real,Rioja Pagos de Viña Real 2005,2005,"4,2",34,España / Rioja,"53,95",Vino tinto,100 % de Tempranillo
+Camino del Puerto,Verdejo 2020,2020,"3,8",29,España / Castilla y León / Rueda,"5,51",Vino blanco,Verdejo
+Sant Josep,Llàgrimes de Tardor Garnatxa Blanca 2018,2018,"4,0",91,España / Cataluña / Terra Alta,"9,95",Vino blanco,Garnacha Blanca
+Viña Real,Rioja Reserva 2013,2013,"3,7",1196,España / Rioja,"13,95",Vino tinto,"90 % de Tempranillo, 10 % de Garnacha"
+Abadía Retuerta,Selección Especial 2016,2016,"4,3",7576,España / Castilla y León / Sardón de Duero,"24,75",Vino tinto,100 % de Tempranillo
+Muga,Muga Rosado 2017,2017,"3,7",905,España / Rioja,"8,10",Vino rosado,100 % de Tempranillo
+Atlan & Artisan,Epistem No. 3 2016,2016,"4,3",64,España / Murcia / Yecla,"18,90",Vino tinto,"55 % de Monastrell, 25 % de Garnacha Tintorera, 20 % de Shiraz/Syrah"
+Finca Villacreces,Pruno Ribera del Duero 2020,2020,"3,7",168,España / Castilla y León / Ribera del Duero,"10,90",Vino tinto,"90 % de Tempranillo, 10 % de Cabernet Sauvignon"
+El Angosto,La Tribuna 2019,2019,"3,5",117,España / Valencia,"5,65",Vino tinto,"Shiraz/Syrah, Monastrell, Garnacha"
+Remelluri,Rioja Blanco 2012,2012,"4,2",150,España / Rioja,"74,50",Vino blanco,100 % de Viognier
+Monasterio de Las Vinas,Gran Reserva 2012,2012,"3,7",165,España / Aragón / Cariñena,"7,95",Vino tinto,"Tempranillo, Cariñena, Garnacha"
+Ramón Bilbao,Lalomba Finca Ladero 2016,2016,"4,3",53,España / Rioja,"61,65",Vino tinto,"80 % de Tempranillo, 20 % de Garnacha"
+Bodegas Mauro,VS 2019,2019,"4,5",35,España / Castilla y León,"55,90",Vino tinto,100 % de Tempranillo
+Marqués de Murrieta,Reserva Especial Rioja 1991,1991,"4,0",74,España / Rioja,70,Vino tinto,Tempranillo
+Lavia,Monastrell - Syrah 2013,2013,"3,7",94,España / Murcia / Bullas,"11,45",Vino tinto,"Shiraz/Syrah, Monastrell"
+Paco & Lola,Vintage Albariño 2016,2016,"4,2",68,España / Galicia / Rías Baixas,19,Vino blanco,100 % de Albariño
+Tianna Negre,Tianna Bocchoris Negre 2017,2017,"4,0",299,España / Islas Baleares / Mallorca / Binissalem-Mallorca,"14,45",Vino tinto,"52 % de Manto Negro, 20 % de Shiraz/Syrah, 16 % de Merlot, 12 % de Callet"
+Vivanco,Parcelas de Graciano Colección Rioja 2015,2015,"4,2",73,España / Rioja,"43,50",Vino tinto,100 % de Graciano
+Abel Mendoza Monge,Viura 2019,2019,"4,0",31,España / Rioja,"25,90",Vino blanco,100 % de Viura
+Clos Galena,Crossos 2016,2016,"3,7",165,España / Cataluña / Tarragona / Montsant,"8,60",Vino tinto,"Shiraz/Syrah, Cabernet Sauvignon, Cariñena, Garnacha"
+Baron de Ley,Rioja Reserva 1994,1994,"3,7",31,España / Rioja,"10,85",Vino tinto,Tempranillo
+Bodegas Celler Francisco Castillo - Clos Dominic,Vinyes Altes Porrera 2007,2007,"4,5",26,España / Cataluña / Priorato,69,Vino tinto,"Garnacha, Cariñena"
+Martinet,Els Escurçons 2017,2017,"4,4",98,España / Cataluña / Priorato,"75,50",Vino tinto,100 % de Garnacha
+Mas Foraster,Josep Foraster Criança 2019,2019,"3,6",32,España / Cataluña / Conca de Barberà,"10,35",Vino tinto,"Shiraz/Syrah, Cabernet Sauvignon, Tempranillo, Trepat"
+Cepa 21,Ribera del Duero Tinto 2019,2019,"4,1",83,España / Castilla y León / Ribera del Duero,"18,50",Vino tinto,100 % de Tempranillo
+Marina Alta,Gran Selección Blanco 2021,2021,"3,9",397,España / Valencia / Alicante,"5,10",Vino blanco,100 % de Moscatel de Alejandría
+Jorge Ordóñez,No. 2 Victoria 2017,2017,"4,3",269,España / Andalucía / Málaga,"15,25",Vino de postre,100 % de Moscatel de Alejandría
+Hispano Suizas,Bassus Pinot Noir 2019,2019,"4,1",289,España / Valencia / Utiel-Requena,"21,76",Vino tinto,100 % de Pinot Noir
+Pago de Vallegarcía,Vallegarcia Viognier 2018,2018,"4,1",269,España / Castilla,"20,85",Vino blanco,100 % de Viognier
+Marqués de Griñon,Svmma Varietalis Red Blend (Summa) 2015,2015,"4,0",490,España / Castilla / Dominio de Valdepusa,"21,43",Vino tinto,"52 % de Shiraz/Syrah, 27 % de Cabernet Sauvignon, 21 % de Petit Verdot"
+Clos Montblanc,Únic Trepat 2016,2016,"3,7",31,España / Cataluña / Conca de Barberà,"10,75",Vino tinto,Trepat
+Finca Antigua,Crianza 2014,2014,"3,8",101,España / Castilla / La Mancha,"7,20",Vino tinto,100 % de Tempranillo
+Contino,Reserva 2018,2018,"4,2",29,España / Rioja,"25,90",Vino tinto,"86 % de Tempranillo, 6 % de Mazuelo, 6 % de Graciano, 2 % de Garnacha"
+Matarromera,Crianza 2017,2017,"4,2",1264,España / Castilla y León / Ribera del Duero,"18,90",Vino tinto,100 % de Tempranillo
+Recaredo,Terrers Brut Nature Gran Reserva 2014,2014,"4,1",450,España / Cataluña / Penedès,"52,90",Vino espumoso,"Macabeo, Parellada"
+Estefanía,Tilenus La Florida Bierzo 2018,2018,"3,7",71,España / Castilla y León / Bierzo,"11,30",Vino tinto,100 % de Mencia
+Torre de Oña,Barón de Oña Rioja Reserva 2004,2004,"3,9",28,España / Rioja,16,Vino tinto,Tempranillo
+Tinto Pesquera,Reserva 2015,2015,"4,2",1729,España / Castilla y León / Ribera del Duero,"70,88",Vino tinto,100 % de Tempranillo
+Pujanza,Hado 2014,2014,"3,7",289,España / Rioja,"10,95",Vino tinto,100 % de Tempranillo
+Acustic Celler,Acústic Blanc 2018,2018,"3,9",138,España / Cataluña / Tarragona / Montsant,"13,10",Vino blanco,100 % de Garnacha Blanca
+Diez Caballero,Vendemia Seleccionada 2016,2016,"3,9",144,España / Rioja,"19,45",Vino tinto,100 % de Tempranillo
+Mesta,Tempranillo Rosé 2021,2021,"3,4",34,España / Castilla / Uclés,"5,95",Vino rosado,100 % de Tempranillo
+Ca Sa Padrina,Montnegre 2019,2019,"3,8",56,España / Islas Baleares / Mallorca / Binissalem-Mallorca,"8,40",Vino tinto,"Cabernet Sauvignon, Merlot, Manto Negro, Shiraz/Syrah"
+Lerma,Crianza Tinto 2017,2017,"3,7",73,España / Castilla y León / Arlanza,"9,50",Vino tinto,100 % de Tempranillo
+Can Ràfols dels Caus,Petit Caus Blanc 2020,2020,"3,4",26,España / Cataluña,"7,90",Vino blanco,100 % de Xarel-lo
+Artadi,Viñas de Gain 2017,2017,"4,0",1418,España / Vino de España,"20,95",Vino de España,100 % de Tempranillo
+Ossian,Viñas Viejas Verdejo 2016,2016,"4,3",1214,España / Castilla y León,49,Vino blanco,100 % de Verdejo
+Raúl Pérez,Ultreia La Claudina 2018,2018,"4,0",73,España / Castilla y León / Bierzo,"39,90",Vino blanco,100 % de Godello
+AT Roca,Costers de Cornudella 2019,2019,"3,9",49,España / Cataluña / Tarragona / Montsant,17,Vino tinto,100 % de Garnacha
+Altos de Rioja,Altos R Reserva 2016,2016,"3,9",78,España / Rioja,"15,90",Vino tinto,100 % de Tempranillo
+Castell Miquel,Stairway To Heaven Sauvignon Blanc 2018,2018,"4,1",120,España / Islas Baleares / Mallorca,"8,75",Vino blanco,100 % de Sauvignon Blanc
+Celler Masroig,Pinyeres Vi Negre 2015,2015,"3,6",99,España / Cataluña / Tarragona / Montsant,"8,60",Vino tinto,"85 % de Garnacha, 15 % de Cariñena"
+Can Ràfols dels Caus,Caus Lubis 2003,2003,"4,1",82,España / Cataluña / Penedès,45,Vino tinto,Merlot
+Martín Faixó,Perafita 2011,2011,"3,9",204,España / Cataluña / Empordà,18,Vino tinto,"Merlot, Cabernet Sauvignon, Grenache"
+Matsu,El Viejo 2019,2019,"4,2",597,España / Castilla y León / Toro,29,Vino tinto,100 % de Tempranillo
+Toro Albalá,Don PX Convento Selección 1931,1931,"4,7",148,España / Andalucía / Montilla-Moriles,290,Vino fortificado,100 % de Pedro Ximenez
+Biniagual,Memòries de Biniagual Blanc 2019,2019,"3,8",36,España / Islas Baleares / Mallorca / Binissalem-Mallorca,"13,24",Vino blanco,"Prensal, Chardonnay, Muscat of Alexandria"
+Vicente Gandía,Bobal Negro 2018,2018,"3,7",338,España / Valencia / Utiel-Requena,"16,99",Vino tinto,Bobal
+Pere Seda,Gvivm Merlot - Callet 2016,2016,"4,0",40,España / Islas Baleares / Mallorca / Plà i Llevant,"17,97",Vino tinto,"Merlot, Callet"
+Bodegas Fontana,Oveja Blanca Dry Muscat 2021,2021,"4,1",60,España / Castilla / Uclés,"6,45",Vino blanco,100 % de Moscatel
+Remelluri,Rioja Blanco 2016,2016,"4,3",243,España / Rioja,"60,25",Vino blanco,100 % de Garnacha Blanca
+Mestres,Damiana Gran Reserva Brut Nature 2004,2004,"4,3",93,España / Cava,"50,66",Vino espumoso,"Macabeo, Parellada"
+Bodega Elias Mora,Toro 2018,2018,"3,9",492,España / Castilla y León / Toro,"9,80",Vino tinto,100 % de Tinta de toro
+Bodegas Artero,Crianza 2017,2017,"4,0",198,España / Castilla / La Mancha,"6,33",Vino tinto,Merlot
+Viñas del Vero,Roble Cabernet Sauvignon - Merlot Somontano 2019,2019,"3,5",609,España / Aragón / Somontano,"4,74",Vino tinto,"Merlot, Cabernet Sauvignon"
+Proelio,Viñedos Viejos Garnacha 2018,2018,"4,0",44,España / Rioja,"13,90",Vino tinto,Garnacha
+Escoda-Sanahuja,Mas del Gaio 2016,2016,"3,9",33,España / Cataluña / Conca de Barberà,"29,50",Vino blanco,Parellada
+Pittacum,La Prohibición Garnacha Tintorera 2017,2017,"4,1",74,España / Castilla y León,"29,25",Vino tinto,100 % de Garnacha Tintorera
+Briego,Infiel 2011,2011,"4,2",88,España / Castilla y León / Ribera del Duero,36,Vino tinto,Tempranillo
+Remírez de Ganuza,Rioja Reserva Fincas de Ganuza 2014,2014,"4,2",715,España / Rioja,"33,99",Vino tinto,100 % de Tempranillo
+David Moreno,Vado de la Reina Cepas Viejas 2017,2017,"4,4",51,España / Rioja,"29,95",Vino tinto,Garnacha
+Proyecto Garnachas de España,La Garnatxa Fosca del Priorat 2018,2018,"3,9",1369,España / Cataluña / Priorato,"13,15",Vino tinto,100 % de Garnacha
+Bodegas Mauro,Terreus Paraje de Cueva Baja 2015,2015,"4,6",324,España / Castilla y León,"94,95",Vino tinto,100 % de Tempranillo
+Álvaro Palacios,Finca Dofí 2016,2016,"4,4",678,España / Cataluña / Priorato,175,Vino tinto,100 % de Grenache
+Bodega Elias Mora,Toro Gran Elías Mora 2007,2007,"4,2",62,España / Castilla y León / Toro,"33,45",Vino tinto,Tempranillo
+Bodegas Faustino,I Gran Reserva 1982,1982,"4,3",302,España / Rioja,80,Vino tinto,Tempranillo
+Viñedos Verticales,Magnético 2019,2019,"3,8",48,España / Andalucía / Sierras de Málaga,"17,90",Vino tinto,Garnacha
+Marques de Vitoria,Rioja Gran Reserva 2011,2011,"3,9",349,España / Rioja,"21,01",Vino tinto,Tempranillo
+Albet i Noya,El Fanio Xarel-lo Penedès 2018,2018,"3,9",278,España / Cataluña / Penedès,"13,50",Vino blanco,100 % de Xarel-lo
+Javier Sanz Viticultor,Semidulce 2021,2021,"4,1",26,España / Castilla y León / Rueda,"6,55",Vino de postre,100 % de Verdejo
+Muga,Reserva 2012,2012,"4,0",4945,España / Rioja,"19,99",Vino tinto,"70 % de Tempranillo, 20 % de Grenache, 7 % de Mazuelo, 3 % de Graciano"
+Castell del Remei,Ull de Llebre 2019,2019,"3,7",63,España / Cataluña / Costers del Segre,"9,95",Vino tinto,Ull de Llebre
+Izadi,Crianza 2018,2018,"3,9",790,España / Rioja,"8,89",Vino tinto,100 % de Tempranillo
+Más Que Vinos,Ercavio Selección Limitada 2014,2014,"3,7",77,España / Castilla,"11,62",Más Que Vinos,100 % de Tempranillo
+Bodegas Roda,Roda Reserva Rioja 2005,2005,"4,1",430,España / Rioja,"28,40",Vino tinto,100 % de Tempranillo
+Buil & Giné,Pleret 2010,2010,"4,2",104,España / Cataluña / Priorato,"55,50",Vino tinto,"Cariñena, Shiraz/Syrah, Cabernet Sauvignon, Grenache, Merlot"
+Vega Real,Verdejo Rueda 2016,2016,"3,7",49,España / Castilla y León / Rueda,"6,60",Vino blanco,Verdejo
+4 Monos,Cien Lanzas Cenicientos 2019,2019,"3,9",47,España / Madrid,"20,50",Vino tinto,100 % de Garnacha
+Alión,Ribera del Duero 2007,2007,"4,4",2071,España / Castilla y León / Ribera del Duero,"130,68",Vino tinto,100 % de Tempranillo
+Celler Credo,Estrany Xarel-lo 2014,2014,"3,5",35,España / Cataluña / Penedès,"26,95",Vino blanco,Xarel-lo
+Bodegas Ateca,Atteca Armas Garnacha Old Vines 2019,2019,"4,4",44,España / Aragón / Calatayud,"29,99",Vino tinto,100 % de Grenache
+Emilio Moro,El Zarzal Godello 2019,2019,"4,0",613,España / Castilla y León / Bierzo,"12,95",Vino blanco,100 % de Godello
+Pepe Mendoza Casa Agrícola,Blanco 2019,2019,"3,8",100,España / Valencia / Alicante,"11,80",Vino blanco,100 % de Moscatel
+Tridente,Tempranillo 2017,2017,"4,0",504,España / Castilla y León,"11,95",Vino tinto,100 % de Tempranillo
+Callejuela,Manzanilla en Rama N.V.,6688,"3,9",115,España / Andalucía / Jerez-Xérès-Sherry / Manzanilla,,Vino fortificado,Palomino
+Bodegas Amaren,Graciano 2009,2009,"4,2",30,España / Rioja,68,Vino tinto,Graciano
+AT Roca,Cantallops Xarel-lo 2019,2019,"4,1",97,España / Cataluña / Penedès,18,Vino blanco,Xarel-lo
+Viña Olabarri,Gran Reserva 2011,2011,"4,0",130,España / Rioja,"15,50",Vino tinto,100 % de Tempranillo
+Tinto Pesquera,Reserva 1986,1986,"4,4",31,España / Castilla y León / Ribera del Duero,"70,88",Vino tinto,Tempranillo
+Patrocinio,Zinio Garnacha 2017,2017,"3,5",42,España / Rioja / Rioja Alta,"5,75",Vino tinto,Garnacha
+Can Axartell,Corum 2018,2018,"4,0",43,España / Islas Baleares / Mallorca,"19,10",Vino blanco,Malvasia
+Enrique Mendoza,Las Quebradas Monastrell 2011,2011,"4,2",119,España / Valencia / Alicante,"21,75",Vino tinto,100 % de Monastrell
+Contino,Rioja Graciano 2016,2016,"4,3",184,España / Rioja,"64,75",Vino tinto,100 % de Graciano
+Castillo de Monjardin,Old Vines (La Cantera) Garnacha 2019,2019,"3,6",94,España / Navarra,"5,44",Vino tinto,100 % de Grenache
+Viñedos y Bodegas Muñoz,Finca Muñoz Colección de la Familia 2019,2019,"4,0",92,España / Castilla,"6,50",Vino tinto,100 % de Tempranillo
+Oxer Wines,Marko Skin 2020,2020,"4,1",27,España / País Vasco,"22,95",Vino blanco,Hondarrabi Zuri
+Lar de Paula,Tempranillo Reserva 2012,2012,"4,3",49,España / Rioja,"8,99",Vino tinto,Tempranillo
+El Grifo,Malvasia Seco 2021,2021,"4,0",44,España / Islas Canarias / Lanzarote,"14,90",Vino blanco,Malvasia
+Celler Aixalà Alcait,Pardelasses 2015,2015,"3,8",266,España / Cataluña / Priorato,"16,50",Vino tinto,"Carignan, Grenache"
+Ossian,Capitel 2015,2015,"4,4",227,España / Castilla y León,"62,92",Vino blanco,100 % de Verdejo
+Campillo,Finca Cuesta Clara Raro Reserva 2015,2015,"4,3",262,España / Rioja,"38,20",Vino tinto,100 % de Tempranillo
+Codorníu,Gran Plus Ultra Pinot Noir Brut 2016,2016,"4,1",38,España / Cava,"14,95",Vino espumoso,Pinot Noir
+Alta Pavina,Pinot Noir 2020,2020,"3,5",137,España / Castilla y León,"9,75",Vino tinto,Pinot Noir
+Martin Berdugo,Barrica 2015,2015,"3,6",192,España / Castilla y León / Ribera del Duero,"7,90",Vino tinto,100 % de Tempranillo
+Terra Remota,Caminante 2020,2020,"3,9",65,España / Cataluña / Empordà,"17,90",Vino blanco,100 % de Garnacha Blanca
+Pinord,Vaquos Crianza 2016,2016,"3,6",118,España / Castilla y León / Ribera del Duero,"13,35",Vino tinto,100 % de Tempranillo
+Inurrieta,Puro Vicio 2014,2014,"4,2",30,España / Navarra,"25,35",Vino tinto,100 % de Shiraz/Syrah
+Orto Vins,Orto Tinto 2016,2016,"3,7",167,España / Cataluña / Tarragona / Montsant,"20,95",Vino tinto,100 % de Cariñena
+Avior,Reserva 2015,2015,"3,8",301,España / Rioja / Rioja Alta,"14,95",Vino tinto,Tempranillo
+Bodega Elias Mora,Toro 2016,2016,"3,9",664,España / Castilla y León / Toro,"9,80",Vino tinto,100 % de Tinta de toro
+Bodegas Roda,Cirsion Rioja 2012,2012,"4,6",233,España / Rioja,"149,90",Vino tinto,100 % de Tempranillo
+Pinna Fidelis,Ribera del Duero Roble 2020,2020,"3,8",41,España / Castilla y León / Ribera del Duero,"7,48",Vino tinto,100 % de Tinta del Pais
+Losada,Godello 2021,2021,"4,1",102,España / Castilla y León / Bierzo,"12,90",Vino blanco,100 % de Godello
+Navajas,Rioja Crianza Tinto 2017,2017,"3,8",457,España / Rioja,"6,41",Vino tinto,"Tempranillo, Mazuelo, Garnacha Tinta"
+Legaris,Ribera del Duero Crianza 2018,2018,"3,9",748,España / Castilla y León / Ribera del Duero,"15,62",Vino tinto,"90 % de Tempranillo, 10 % de Cabernet Sauvignon"
+Bodegas Paco Mulero,Prisma Verdejo 2020,2020,"3,8",47,España / Castilla y León / Rueda,"5,50",Vino blanco,100 % de Verdejo
+Vinos Sanz,Verdejo 2010,2010,"3,4",204,España / Castilla y León / Rueda,"8,25",Vinos Sanz,100 % de Verdejo
+Bodegas Nueva Valverde,Tejoneras Alta Selección 2012,2012,"3,8",315,España / Madrid,"12,90",Vino tinto,"Shiraz/Syrah, Cabernet Sauvignon, Grenache, Merlot"
+Luzon,Por Tí 2012,2012,"4,2",215,España / Murcia / Jumilla,"22,90",Vino tinto,"80 % de Monastrell, 20 % de Cabernet Sauvignon"
+Chivite,Navarra Coleccion 125 Blanco 2018,2018,"4,4",178,España / Navarra,"52,21",Vino blanco,100 % de Chardonnay
+Pazo de Villarei,Abadia do Seixo Rias Baixas Albariño 2021,2021,"3,8",47,España / Galicia / Rías Baixas,"7,50",Vino blanco,Albariño
+Mar de Envero,Blanco Lias 2018,2018,"3,8",47,España / Galicia / Rías Baixas,"17,50",Vino blanco,100 % de Albariño
+Tarón,Crianza 2017,2017,"3,8",44,España / Rioja / Rioja Alta,"7,50",Vino tinto,Tempranillo
+Cellers d'en Guilla,Rec de Brau 2016,2016,"3,3",33,España / Cataluña / Empordà,"6,93",Vino tinto,"Cariñena, Grenache"
+Habla,No. 19 2015,2015,"4,2",289,España / Extremadura,"59,77",Vino tinto,100 % de Tempranillo
+Bodegas Verdeal,Ayre Verdejo 2019,2019,"3,6",65,España / Castilla y León / Rueda,"7,99",Vino blanco,Verdejo
+Breca,Brega Garnacha 2018,2018,"4,2",25,España / Aragón / Calatayud,"28,85",Vino tinto,100 % de Grenache
+La Maldita,Revolution Garnacha 2019,2019,"4,0",63,España / Rioja,"10,50",Vino tinto,100 % de Garnacha
+Jeromin,Grego Garnacha Centenaria 2018,2018,"3,4",49,España / Madrid,"7,75",Vino tinto,Garnacha
+Cantariña,Viña de los Pinos 2017,2017,"3,9",123,España / Castilla y León / Bierzo,"13,50",Vino tinto,"Mencia, Doña Blanca, Garnacha Tintorera, Palomino"
+Baluarte,Verdejo 2020,2020,"3,8",53,España / Castilla y León / Rueda,"6,95",Vino blanco,100 % de Verdejo
+Divina Proporción,Toro 24 Mozas 2020,2020,"3,8",113,España / Castilla y León / Toro,"8,90",Vino tinto,100 % de Tinta de toro
+Viña Pedrosa,Pérez Pascuas Gran Reserva Selección 2010,2010,"4,4",306,España / Castilla y León / Ribera del Duero,"245,53",Vino tinto,100 % de Tinto Fino
+Gracia Hnos,Tauromaquia Oloroso N.V.,9313,"4,0",60,España / Andalucía / Montilla-Moriles,,Vino fortificado,100 % de Pedro Ximenez
+Familia Torres,De Casta Rosado 2021,2021,"3,6",184,España / Cataluña,"4,35",Vino rosado,"65 % de Garnacha, 35 % de Cariñena"
+Tempore,Generación 76 Tempranillo 2020,2020,"3,8",63,España / Aragón / Bajo Aragón,"10,50",Vino tinto,100 % de Tempranillo
+Cosmic,Connexió Còsmica 2020,2020,"4,0",53,España / Cataluña,"13,50",Vino blanco,"Chardonnay, Xarel-lo, Muscat of Alexandria"
+Miquel Jané,Masía Cal Costas Cabernet Sauvignon - Syrah 2017,2017,"4,2",52,España / Cataluña / Penedès,"12,50",Vino tinto,"Shiraz/Syrah, Cabernet Sauvignon"
+Jiménez-Landi,Las Iruelas El Tiemblo 2014,2014,"4,0",43,España / Castilla y León,"226,90",Vino tinto,100 % de Garnacha
+Bodegas del Muni,Corpus del Muni Lucia Selección Tempranillo 2015,2015,"3,6",99,España / Castilla,"5,37",Vino tinto,Tempranillo
+Mas Doix,Salanques 2019,2019,"4,2",132,España / Cataluña / Priorato,"32,75",Vino tinto,"65 % de Garnacha, 25 % de Cariñena, 10 % de Shiraz/Syrah"
+El Casetero,Selección Garnacha 2020,2020,"3,6",28,España / Aragón / Campo de Borja,"6,75",Vino tinto,Garnacha
+Monopole,Blanco 2020,2020,"3,3",45,España / Rioja,"6,85",Vino blanco,100 % de Viura
+Arnaiz,Ribera del Duero Crianza 2014,2014,"3,5",346,España / Castilla y León / Ribera del Duero,"9,50",Vino tinto,"Tempranillo, Tinta del Pais"
+Bodega Contador (Benjamín Romeo),Colección No. 2 Cosecha Gran Reserva 2011,2011,"4,3",27,España / Rioja,190,Vino tinto,Mazuelo
+Dominio del Urogallo,Pésico Tinto 2015,2015,"3,7",120,España / Asturias,"17,90",Vino tinto,100 % de Mencia
+Gallina de Piel,Manar dos Seixaş 2019,2019,"4,1",106,España / Galicia / Ribeiro,"14,80",Vino blanco,"85 % de Treixadura, 8 % de Godello, 5 % de Albariño, 2 % de Loureiro"
+Bodegas Piqueras,El Abuelo de Piqueras Crianza 2019,2019,"4,1",76,España / Castilla / Almansa,"5,99",Vino tinto,"Cabernet Sauvignon, Tempranillo, Monastrell"
+Bodegas Faustino,Crianza 2018,2018,"3,6",851,España / Rioja,"5,95",Vino tinto,100 % de Tempranillo
+Dehesa de Luna,Orígenes 2018,2018,"3,9",215,España / Castilla y León,"8,20",Vino tinto,"35 % de Cabernet Sauvignon, 33 % de Shiraz/Syrah, 32 % de Tempranillo"
+Valdaya,El Valiente 2018,2018,"3,9",185,España / Castilla y León / Ribera del Duero,"17,40",Vino tinto,Tempranillo
+Pujanza,Rioja 2009,2009,"3,6",97,España / Rioja,26,Vino tinto,Tempranillo
+Casa de la Ermita,Roble 2015,2015,"3,3",87,España / Murcia / Jumilla,"4,99",Vino tinto,"Petit Verdot, Monastrell"
+El Grillo y La Luna,12 Lunas Tinto 2017,2017,"3,9",589,España / Aragón / Somontano,"8,80",Vino tinto,"Shiraz/Syrah, Garnacha, Tempranillo, Cabernet Sauvignon"
+Bodega Campo Eliseo,Campesino 2018,2018,"3,9",269,España / Castilla y León / Toro,"8,91",Vino tinto,100 % de Tinta de toro
+Pago de Almaraes,Mencal 2014,2014,"3,5",50,España / Andalucía,"9,68",Vino blanco,"Chardonnay, Sémillon, Torrontés, Muscatel"
+Bertha,Umami 2018,2018,"3,5",102,España / Cataluña / Penedès,"8,35",Vino blanco,100 % de Macabeo
+Bodegas Yuntero,Reserva Tempranillo 2015,2015,"3,6",116,España / Castilla / La Mancha,"9,70",Vino tinto,Tempranillo
+Romate,Perdido Fino N.V.,2796,"3,7",487,España / Andalucía / Jerez-Xérès-Sherry / Jerez Fino,,Vino fortificado,Garrido Fino
+Emilio Moro,Finca Resalso 2018,2018,"3,9",6163,España / Castilla y León / Ribera del Duero,"8,60",Vino tinto,100 % de Tempranillo
+Alvear,3 Miradas Vino de Pueblo 2019,2019,"3,6",104,España / Andalucía / Montilla-Moriles,"11,79",3 Miradas Vino de Pueblo,100 % de Pedro Ximenez
+Epifanio Rivera,Erial Tradición Familia 2019,2019,"4,5",95,España / Castilla y León / Ribera del Duero,"19,95",Vino tinto,100 % de Tempranillo
+Familia Torres,Reserva Real 2011,2011,"3,9",245,España / Cataluña / Penedès,240,Vino tinto,"Merlot, Cabernet Sauvignon, Cabernet Franc"
+Galmés I Ribot,Margalida Red 2018,2018,"3,4",51,España / Islas Baleares / Mallorca,"8,80",Vino tinto,"Shiraz/Syrah, Cabernet Sauvignon"
+Escalada do Sil,Valdeorras 2015,2015,"4,0",51,España / Galicia / Valdeorras,"30,50",Vino tinto,"Garnacha, Garnacha Tinta, Mencia"
+Castro Brey,Sin Palabras Castro Valdés Albariño 2020,2020,"3,8",35,España / Galicia / Rías Baixas,"11,90",Vino blanco,100 % de Albariño
+Vins de Pedra,Blanc de Folls 2017,2017,"3,4",44,España / Cataluña / Conca de Barberà,"7,35",Vino blanco,"Macabeo, Parellada"
+Raúl Pérez,Ultreia Mencía 2011,2011,"4,0",47,España / Castilla y León / Bierzo,"17,90",Vino tinto,100 % de Mencia
+Baron de Ley,Varietales Maturana Rioja 2017,2017,"4,1",372,España / Rioja,"11,90",Vino tinto,100 % de Maturana Tinta
+Ca N'Estruc,L'Equilibrista Blanc 2018,2018,"3,8",112,España / Cataluña,"14,90",Vino blanco,100 % de Xarel-lo
+Finca La Estacada,Secua Cabernet - Syrah 2017,2017,"4,1",86,España / Castilla,"15,55",Vino tinto,"Shiraz/Syrah, Cabernet Sauvignon, Tempranillo"
+Fuentespina,Reserva 2014,2014,"3,7",158,España / Castilla y León / Ribera del Duero,"16,45",Vino tinto,Tempranillo
+Enrique Mendoza,Pinot Noir Alicante 2019,2019,"3,6",128,España / Valencia / Alicante,"9,50",Vino tinto,100 % de Pinot Noir
+Artadi,Terreras 2018,2018,"4,4",25,España / Vino de España,"43,90",Vino de España,Tempranillo
+DG Viticultors,Cinclus SC 2013,2013,"3,9",145,España / Cataluña / Penedès,"10,50",Vino blanco,"Incrocio Manzoni, Albariño"
+Las Rocas,Viñas Viejas Garnacha 2015,2015,"3,9",225,España / Aragón / Calatayud,"12,05",Vino tinto,100 % de Garnacha
+Maior de Mendoza,Albariño Sobre Lías (On Lees) 2021,2021,"3,8",48,España / Galicia / Rías Baixas,"15,50",Vino blanco,Albariño
+Vinsnus,SiurAlta Morat 2018,2018,"3,8",44,España / Cataluña / Tarragona / Montsant,"16,32",Vino tinto,"Shiraz/Syrah, Viognier"
+Gramona,Mas Escorpí Chardonnay Penedès 2016,2016,"3,6",156,España / Cataluña / Penedès,"11,95",Vino blanco,100 % de Chardonnay
+Pittacum,Mencía 2017,2017,"3,9",482,España / Castilla y León / Bierzo,"10,30",Vino tinto,100 % de Mencia
+Bodegas Valdemar,Conde de Valdemar Crianza 2016,2016,"3,7",349,España / Rioja,"7,50",Vino tinto,100 % de Tempranillo
+Bodegas Valduero,Tierra Alta de 2 Cotas Reserva 2015,2015,"4,3",37,España / Castilla y León / Ribera del Duero,"36,50",Vino tinto,100 % de Tempranillo
+Clos d'Agon,Tinto 2018,2018,"4,1",61,España / Cataluña,"42,60",Vino tinto,"41 % de Cabernet Franc, 36 % de Shiraz/Syrah, 11 % de Petit Verdot, 10 % de Merlot, 2 % de Cabernet Sauvignon"
+Elvi,Cava Brut N.V.,1385,"3,0",32,España / Cava,"11,50",Vino espumoso,"Macabeo, Xarel-lo, Parellada"
+Artadi,Viñas de Gain 2018,2018,"4,0",689,España / Vino de España,"19,90",Vino de España,100 % de Tempranillo
+Jean Leon,Vinya Le Havre Reserva Cabernet Sauvignon 2016,2016,"3,9",164,España / Cataluña / Penedès,"21,50",Vino tinto,"85 % de Cabernet Sauvignon, 15 % de Cabernet Franc"
+Bodegas Frontaura,Limited Edition Rosé 2019,2019,"3,8",43,España / Castilla y León / Toro,"11,99",Vino rosado,"Tempranillo, Shiraz/Syrah"
+Beronia,Laslias de Beronia Verdejo Sobre Lias 2019,2019,"4,0",31,España / Castilla y León / Rueda,"16,95",Vino blanco,Verdejo
+Cune (CVNE),Reserva 2000,2000,"3,7",48,España / Rioja,80,Vino tinto,Tempranillo
+Can Axartell,The Artist 2016,2016,"4,4",70,España / Islas Baleares / Mallorca,"29,90",Vino tinto,"Shiraz/Syrah, Merlot, Callet, Manto Negro"
+Borsao Bodegas,Barrica (Selección) 2020,2020,"3,6",93,España / Aragón / Campo de Borja,"4,60",Vino tinto,100 % de Grenache
+Bodegas Exeo,Cifras Garnacha 2018,2018,"3,7",133,España / Rioja,"15,90",Vino tinto,100 % de Garnacha
+Estefanía,Tilenus La Florida Bierzo 2015,2015,"3,8",265,España / Castilla y León / Bierzo,"14,50",Vino tinto,100 % de Mencia
+Altos Ibéricos,Reserva 2013,2013,"3,7",939,España / Rioja,"16,90",Vino tinto,100 % de Tempranillo
+Mustiguillo,Mestizaje Blanco 2020,2020,"3,9",223,España / Vino de España,"9,18",Vino de España,"65 % de Merseguera, 24 % de Viognier, 11 % de Malvasia"
+Joan Sardà,Cava Brut Nature Reserva N.V.,5507,"3,6",66,España / Cava,"11,15",Vino espumoso,"Chardonnay, Malvasia, Macabeo"
+Viore,Verdejo 2021,2021,"3,8",44,España / Castilla y León / Rueda,"5,75",Vino blanco,Verdea
+Miguel Merino,Gran Reserva 2000,2000,"4,3",25,España / Rioja,"48,81",Vino tinto,"Tempranillo, Graciano"
+El Lagar de Isilla,La Casona de la Vid 5V 2016,2016,"3,4",27,España / Castilla y León,"16,79",Vino tinto,"Garnacha, Shiraz/Syrah, Cabernet Sauvignon, Merlot, Tempranillo"
+Freixenet,Mia Moscato N.V.,3290,"3,8",4441,España / Cataluña,"5,08",Vino espumoso,100 % de Moscatel
+Bodegas Bilbaínas,Lumen Brut 2018,2018,"3,9",53,España / Rioja,"14,90",Vino espumoso,100 % de Garnacha
+Vins del Tros,Cent X Cent Garnatxa Blanca 2018,2018,"3,6",43,España / Cataluña / Terra Alta,"11,95",Vino blanco,100 % de Garnacha Blanca
+Quinta da Muradella,Muradella Viticultura de Montaña 2013,2013,"4,0",45,España / Galicia,"45,95",Vino tinto,"Mencia, Doña Blanca"
+Castaño,Santa 2016,2016,"4,1",113,España / Murcia / Yecla,"15,75",Vino tinto,"70 % de Monastrell, 30 % de Cabernet Sauvignon"
+Convento Oreja,Roble 2019,2019,"3,8",559,España / Castilla y León / Ribera del Duero,"8,60",Vino tinto,Tempranillo
+Bodegas del Muni,Corpus del Muni Roble 2017,2017,"3,7",92,España / Castilla,"5,95",Vino tinto,"Shiraz/Syrah, Tempranillo, Petit Verdot, Garnacha"
+Matsu,El Recio 2018,2018,"4,1",4591,España / Castilla y León / Toro,"10,08",Vino tinto,100 % de Tinta de toro
+Terras Gauda,Terras Gauda O Rosal Etiqueta Negra (Black Label) 2016,2016,"4,2",152,España / Galicia / Rías Baixas,"22,90",Vino blanco,"Loureiro, Caiño Blanco, Albariño"
+Beronia,Rioja Reserva Mazuelo 2017,2017,"3,8",39,España / Rioja,"16,90",Vino tinto,100 % de Mazuelo
+Capafons-Ossó,Masia Esplanes 2007,2007,"3,8",259,España / Cataluña / Tarragona / Montsant,"19,90",Vino tinto,"Grenache, Merlot, Shiraz/Syrah, Cabernet Sauvignon"
+Mas Asturias,Massuria 2015,2015,"4,1",144,España / Castilla y León / Bierzo,"22,90",Vino tinto,100 % de Mencia
+Juan Pinero,Amontillado 30 Years Old V.O.R.S Sherry N.V.,7924,"4,4",71,España / Andalucía / Jerez-Xérès-Sherry / Jerez Amontillado,"36,90",Vino fortificado,Palomino
+Celler Frisach,Sang de Corb 2018,2018,"4,1",58,España / Cataluña / Terra Alta,"18,80",Vino tinto,"Garnacha Tinta, Garnacha Peluda, Carignan"
+Arzuaga,Gran Reserva Ribera del Duero 2009,2009,"4,4",522,España / Castilla y León / Ribera del Duero,"80,98",Vino tinto,100 % de Tempranillo
+Fedellos do Couto,Bastarda 2019,2019,"4,0",146,España / Galicia / Ribeira Sacra,"26,85",Vino tinto,Trousseau
+Artuke,Paso Las Mañas Paraje El Chorro 2019,2019,"3,9",49,España / Vino de España,"23,40",Vino de España,100 % de Tempranillo
+Celler Credo,Miranius 2019,2019,"3,9",245,España / Cataluña / Penedès,"10,50",Vino blanco,100 % de Parellada
+Bodegas Piqueras,Castillo de Almansa Crianza 2018,2018,"3,5",39,España / Castilla / Almansa,"4,99",Vino tinto,100 % de Tempranillo
+Es Verger,Els Rojals 2015,2015,"3,7",30,España / Islas Baleares,"12,55",Vino tinto,"Cabernet Sauvignon, Merlot"
+Callejuela,Blanquito Manzanilla Pasada N.V.,0498,"3,8",311,España / Andalucía / Jerez-Xérès-Sherry / Manzanilla,,Vino fortificado,100 % de Palomino
+Sierra Cantabria,Crianza 2018,2018,"3,8",401,España / Rioja,"9,25",Vino tinto,100 % de Tempranillo
+Mas Bertran,Balma Reserva Brut Nature 2015,2015,"3,9",71,España / Cataluña / Penedès,"10,10",Vino espumoso,"Macabeo, Xarel-lo, Parellada"
+Tomàs Cusiné,Drac Màgic Negre 2017,2017,"3,6",26,España / Cataluña / Costers del Segre,"8,40",Vino tinto,100 % de Tempranillo
+Mesquida Mora,Trispol 2019,2019,"3,9",42,España / Islas Baleares / Mallorca / Plà i Llevant,"18,75",Vino tinto,"Shiraz/Syrah, Cabernet Sauvignon, Callet"
+Celler del Roure,Les Prunes Les Filles d'Amàlia Blanc de Mandó 2020,2020,"3,8",63,España / Valencia,"11,90",Vino rosado,Mandón
+Viña Sastre,Ribera del Duero Crianza 2019,2019,"4,2",77,España / Castilla y León / Ribera del Duero,"18,85",Vino tinto,100 % de Tinto Fino
+Dominio de Es,Viñas Viejas de Soria Ribera Del Duero 2019,2019,"4,4",84,España / Castilla y León / Ribera del Duero,"75,95",Vino tinto,"91 % de Tinto Fino, 7 % de Albillo, 1 % de Alicante Bouschet, 1 % de Garnacha"
+Cal Grau,Badaceli Tinto 2016,2016,"3,9",115,España / Cataluña / Priorato,15,Vino tinto,"Garnacha, Samsó"
+Tierra Antigua,Reserva 2003,2003,"4,0",55,España / Rioja,31,Vino tinto,"Tempranillo, Garnacha"
+Ontañón,Vetiver Verdejo 2020,2020,"3,9",66,España / Castilla y León / Rueda,"6,95",Vino blanco,Verdejo
+Maguila,Angelitos Negros Toro 2017,2017,"3,6",240,España / Castilla y León / Toro,"9,95",Vino tinto,100 % de Tinta de toro
+Telmo Rodriguez,Valdeorras Mencia Gaba do Xil 2017,2017,"3,5",313,España / Galicia / Valdeorras,"9,61",Vino tinto,100 % de Mencia
+Cercavins,Bru de Verdú 2016,2016,"3,8",215,España / Cataluña / Costers del Segre,"9,45",Vino tinto,100 % de Shiraz/Syrah
+Pagos del Moncayo,Prados Colección Syrah 2018,2018,"4,0",66,España / Aragón / Campo de Borja,14,Vino tinto,100 % de Shiraz/Syrah
+Bodega Sommos,Colección Merlot 2018,2018,"4,1",253,España / Aragón / Somontano,"14,40",Vino tinto,100 % de Merlot
+Bodegas Diaz Bayo,Díaz Bayo 20 Meses Reserva 2015,2015,"4,1",77,España / Castilla y León / Ribera del Duero,"22,95",Vino tinto,100 % de Tempranillo
+Bodegas Tionio,Austum Sauvignon Blanc 2019,2019,"3,8",26,España / Castilla y León / Rueda,"8,90",Vino blanco,Sauvignon Blanc
+Tábula,Damana 5 Ribera del Duero 2020,2020,"3,8",57,España / Castilla y León / Ribera del Duero,"7,50",Vino tinto,100 % de Tempranillo
+Celler Credo,Can Credo Xarel-lo 2014,2014,"3,9",114,España / Cataluña,"18,85",Vino blanco,100 % de Xarel-lo
+Dominio de Atauta,Torre de Golban Crianza 2007,2007,"3,6",103,España / Castilla y León,"10,50",Vino tinto,100 % de Tinto Fino
+Botani,Garnacha 2019,2019,"3,2",43,España / Andalucía / Sierras de Málaga,"11,70",Vino tinto,100 % de Grenache
+Martinez Lacuesta,Rioja Crianza 2018,2018,"3,8",215,España / Rioja,"8,25",Vino tinto,100 % de Tempranillo
+Rotllan Torra,Reserva 2017,2017,"3,9",48,España / Cataluña / Priorato,"9,95",Vino tinto,"Garnacha, Cabernet Sauvignon, Carignan"
+Protos,Selección Finca el Grajo Viejo 2017,2017,"4,4",79,España / Castilla y León / Ribera del Duero,"64,60",Vino tinto,100 % de Tinto Fino
+Adega Ponte da Boga,Bancales Olvidados Mencía 2019,2019,"3,7",79,España / Galicia / Ribeira Sacra,"15,95",Vino tinto,Mencia
+Portal del Montsant,Brunus Blend 2016,2016,"3,8",371,España / Cataluña / Tarragona / Montsant,"30,88",Vino tinto,100 % de Cariñena
+Pujanza,Rioja Norte 2011,2011,"4,3",107,España / Rioja,"49,90",Vino tinto,100 % de Tempranillo
+Bodegas Care,Cariñena Nativa Viñas Viejas 2020,2020,"4,0",60,España / Aragón / Cariñena,"9,20",Vino tinto,Cariñena
+Alfredo Arribas,Trossos Vells 2015,2015,"4,0",84,España / Cataluña / Tarragona / Montsant,"18,40",Vino tinto,100 % de Carignan
+Sierra Cantabria,Finca el Bosque 2015,2015,"4,6",228,España / Rioja,215,Vino tinto,100 % de Tempranillo
+Nin-Ortiz,Planetes de Nin Priorat Blanc 2018,2018,"4,0",40,España / Cataluña / Priorato,"33,90",Vino blanco,"Carignan, Grenache Blanc"
+Les Cousins Marc & Adrià,L'Inconscient 2019,2019,"3,8",1007,España / Cataluña / Priorato,"10,90",Vino tinto,100 % de Cariñena
+Més Que Paraules,White Blend 2020,2020,"3,6",25,España / Cataluña,"9,45",Vino blanco,"Sauvignon Blanc, Picapoll Blanco, Chardonnay"
+Ramón Bilbao,Gran Reserva Rioja (Tempranillo) 2012,2012,"4,2",927,España / Rioja,"22,90",Vino tinto,100 % de Tempranillo
+Oliver Conti,Indispensable Blanc 2021,2021,"3,8",79,España / Cataluña / Empordà,"6,30",Vino blanco,Garnacha Blanca
+Celler Laurona,6 Vinyes de Laurona 2005,2005,"3,9",35,España / Cataluña / Tarragona / Montsant,29,Vino tinto,"Grenache, Cariñena"
+Los Aguilares,Tinto 2020,2020,"3,7",235,España / Andalucía,"11,50",Vino tinto,100 % de Shiraz/Syrah
+Pere Ventura Cavas,Cava Primer Reserva Brut N.V.,4634,"3,7",2667,España / Cava,,Vino espumoso,100 % de Macabeo
+Abadía Retuerta,Pago Valdebellón 2009,2009,"4,2",158,España / Castilla y León / Sardón de Duero,"63,95",Vino tinto,Cabernet Sauvignon
+Viña Pedrosa,Crianza Ribera del Duero 2018,2018,"4,1",1153,España / Castilla y León / Ribera del Duero,"19,50",Vino tinto,100 % de Tinto Fino
+Comenge,El Origen 2018,2018,"4,1",457,España / Castilla y León / Ribera del Duero,"17,90",Vino tinto,100 % de Tempranillo
+Vins del Tros,Lo Morenillo 2017,2017,"4,2",25,España / Cataluña / Terra Alta,"23,95",Vino tinto,100 % de Morenillo
+Cuatro Pasos,Tinto 2015,2015,"3,4",469,España / Castilla y León / Bierzo,"7,15",Vino tinto,100 % de Mencia
+Quinta Sardonia,Sardón 2015,2015,"3,7",540,España / Castilla y León,"10,45",Vino tinto,"Garnacha, Tempranillo"
+Juvé & Camps,Cava Reserva Blanc de Noirs Pinot Noir 2017,2017,"4,1",89,España / Cava,"25,50",Vino espumoso,100 % de Pinot Noir
+Coma d'En Bonet,Dardell Tinto 2020,2020,"3,7",48,España / Cataluña / Terra Alta,"5,95",Vino tinto,"Shiraz/Syrah, Garnacha"
+Bodegas Toribio,Esenzia Coupage 2016,2016,"4,1",41,España / Extremadura,14,Vino tinto,Tempranillo
+Las Moradas de San Martín,La Sabina 2011,2011,"3,9",169,España / Madrid,"14,90",Vino tinto,Garnacha
+Pasión,Monastrell 2019,2019,"4,0",59,España / Valencia / Utiel-Requena,"8,45",Vino tinto,100 % de Monastrell
+Remelluri,Granja Gran Reserva Rioja 2012,2012,"4,4",254,España / Rioja,"53,90",Vino tinto,"Garnacha, Tempranillo, Graciano"
+Pujanza,Rioja 2005,2005,"4,3",34,España / Rioja,29,Vino tinto,Tempranillo
+Bodegas Carramimbre,Carramimbre Crianza 2019,2019,"4,0",83,España / Castilla y León / Ribera del Duero,"13,90",Vino tinto,"90 % de Tinta del Pais, 10 % de Cabernet Sauvignon"
+Remelluri,Rioja Reserva 2012,2012,"4,2",3609,España / Rioja,"20,55",Vino tinto,100 % de Tempranillo
+Prieto Pariente,Viognier 2014,2014,"3,9",64,España / Castilla y León,"14,50",Vino blanco,Viognier
+Castelo de Pedregosa,Cava Bebito Brut Nature N.V.,4501,"3,5",76,España / Cataluña,,Vino espumoso,"Macabeo, Xarel-lo, Parellada"
+El Coto,875m Finca Carbonera Chardonnay 2020,2020,"3,7",116,España / Rioja,"9,50",Vino blanco,Chardonnay
+Parxet,Cava Cuvée 21 Brut 2015,2015,"3,5",179,España / Cava,"13,60",Vino espumoso,"Macabeo, Xarel-lo, Parellada"
+Cal Pla,La Carenyeta Porrera 2015,2015,"4,0",91,España / Cataluña / Priorato,"16,53",Vino tinto,Carignan
+Bodegas Amaren,El Cristo de Samaniego 2017,2017,"4,4",52,España / Rioja / Rioja Alavesa,"42,90",Vino tinto,Tempranillo
+Raimat,Anima de Raimat Tinto 2018,2018,"3,8",790,España / Cataluña / Costers del Segre,"7,75",Vino tinto,"Cabernet Sauvignon, Tempranillo, Shiraz/Syrah"
+Castellroig,Cava Brut Nature N.V.,5377,"3,6",125,España / Cava,,Vino espumoso,"Macabeo, Xarel-lo, Parellada"
+Bodega Contador (Benjamín Romeo),A Mi Manera Rioja 2016,2016,"3,7",131,España / Rioja,"12,50",Vino tinto,100 % de Tempranillo
+Genium,Ecològic 2012,2012,"4,0",40,España / Cataluña / Priorato,"23,13",Vino tinto,"Shiraz/Syrah, Merlot, Carignan, Grenache"
+Marc Isart,'La Maldicion' Gleba de Arcilla 2018,2018,"3,6",63,España / Madrid,"8,93",Vino tinto,Tempranillo
+Pago de Carraovejas,Tinto 2012,2012,"4,3",4035,España / Castilla y León / Ribera del Duero,49,Vino tinto,Merlot
+Marina Alta,Gran Selección Blanco 2020,2020,"4,0",866,España / Valencia / Alicante,"6,32",Vino blanco,100 % de Moscatel de Alejandría
+Artuke,Artuke Rioja 2019,2019,"3,6",558,España / Rioja,"6,85",Vino tinto,100 % de Tempranillo
+Pujanza,Rioja Norte 2006,2006,"4,3",67,España / Rioja,"49,90",Vino tinto,Tempranillo
+Cérvoles,Estrats 2009,2009,"4,4",84,España / Cataluña / Costers del Segre,"50,90",Vino tinto,Cabernet Sauvignon
+Enrique Mendoza,Chardonnay Alicante 2021,2021,"3,8",198,España / Valencia / Alicante,"7,74",Vino blanco,100 % de Chardonnay
+Castro Ventosa,El Castro de Valtuille Mencía Joven 2020,2020,"3,7",356,España / Castilla y León / Bierzo,"5,95",Vino tinto,100 % de Mencia
+Alto Moncayo,Aquilon Garnacha 2014,2014,"4,4",141,España / Aragón / Campo de Borja,"117,25",Vino tinto,100 % de Grenache
+Pago Los Balancines,Alunado Chardonnay 2014,2014,"4,1",84,España / Extremadura / Ribera del Guadiana,"20,31",Vino blanco,Chardonnay
+Hidalgo (La Gitana),La Gitana Sherry N.V.,8596,"3,3",1926,España / Andalucía / Jerez-Xérès-Sherry / Manzanilla,"5,99",Vino fortificado,100 % de Palomino
+Bodegas Castelo de Medina,Castelo de Rueda Blanco 2019,2019,"3,8",44,España / Castilla y León / Rueda,"6,60",Vino blanco,"Sauvignon Blanc, Viura, Verdejo"
+Baron de Ley,Rioja Rosado 2019,2019,"3,5",193,España / Rioja,"6,40",Vino rosado,100 % de Tempranillo
+Valdesil,Godello Sobre Lias 2019,2019,"3,8",353,España / Galicia / Valdeorras,"13,20",Vino blanco,100 % de Godello
+Meritxell Pallejà,Nita Priorat 2017,2017,"3,7",135,España / Cataluña / Priorato,"28,45",Vino tinto,100 % de Garnacha
+Bodega Elias Mora,Toro Reserva 2014,2014,"4,1",62,España / Castilla y León / Toro,"41,50",Vino tinto,100 % de Tinta de toro
+Dehesa del Carrizal,Colección Privada 2016,2016,"4,3",169,España / Castilla / Dehesa del Carrizal,"24,76",Vino tinto,"Shiraz/Syrah, Merlot, Cabernet Sauvignon"
+Vicente Gandía,Bobal Blanco 2019,2019,"3,6",103,España / Valencia / Utiel-Requena,"16,99",Vino blanco,100 % de Bobal
+Pago de Cirsus,Vendimia Seleccionada 2020,2020,"3,9",104,España / Navarra,"8,50",Vino tinto,"Shiraz/Syrah, Merlot, Tempranillo"
+Descendientes de J. Palacios,Pétalos 2014,2014,"3,8",3280,España / Castilla y León / Bierzo,"14,25",Vino tinto,100 % de Cabernet Sauvignon
+Avgvstvs,Chardonnay 2020,2020,"4,0",33,España / Cataluña / Penedès,"48,50",Vino blanco,100 % de Chardonnay
+Carmelo Rodero,Pago De Valtarreña 2018,2018,"4,6",159,España / Castilla y León / Ribera del Duero,"48,50",Vino tinto,100 % de Tempranillo
+Vietor y Leon,Crianza 2017,2017,"3,9",108,España / Castilla / Valdepeñas,"12,95",Vino tinto,Tempranillo
+Delgado Zuleta,Manzanilla Entusiástico N.V.,7905,"3,7",66,España / Andalucía / Jerez-Xérès-Sherry / Manzanilla,"10,90",Vino fortificado,Palomino
+Finca Míllara,Ribera de los Naranjos 2015,2015,"4,1",198,España / Galicia / Ribeira Sacra,"18,09",Vino tinto,"Souzao, Mencia"
+Mandia Vell,Cuvée Tinto 2016,2016,"4,2",103,España / Islas Baleares / Mallorca,"29,17",Vino tinto,"Shiraz/Syrah, Cabernet Sauvignon, Merlot"
+Muriel,Fincas de la Villa Reserva 2015,2015,"3,7",199,España / Rioja,"8,95",Vino tinto,Tempranillo
+Akilia,Chano Villar 2012,2012,"3,5",153,España / Castilla y León / Bierzo,"19,90",Vino tinto,100 % de Mencia
+Dominio do Bibei,Lapola 2017,2017,"4,3",254,España / Galicia / Ribeira Sacra,"20,73",Vino blanco,"75 % de Godello, 20 % de Albariño, 5 % de Doña Blanca"
+Marqués de Cáceres,Rioja Blanco 2019,2019,"3,7",1332,España / Rioja,"5,40",Vino blanco,100 % de Viura
+Hu-Ha Chimo Bayo,Tinto 2018,2018,"2,7",108,España / Valencia,"4,90",Vino tinto,100 % de Bobal
+Bodegas Ismael Arroyo,Valsotillo Finca Buenavista 2017,2017,"3,9",153,España / Castilla y León / Ribera del Duero,"10,90",Vino tinto,100 % de Tinta del Pais
+Can Rich,Yviça Tinto 2019,2019,"3,5",26,España / Islas Baleares / Ibiza,"9,40",Vino tinto,"Merlot, Tempranillo, Monastrell"
+Finca Valpiedra,Rioja Reserva 1999,1999,"4,1",63,España / Rioja,19,Vino tinto,Tempranillo
+Hydria,88 Teclas 2016,2016,"4,1",30,España / Murcia,18,Vino tinto,Monastrell
+Juan Pinero,Pedro Ximenez N.V.,0671,"4,1",47,España / Andalucía / Jerez-Xérès-Sherry,"22,20",Vino fortificado,100 % de Pedro Ximenez
+Bodegas Cosme Palacio,Glorioso Rioja Reserva 2013,2013,"3,8",1106,España / Rioja,"9,85",Vino tinto,100 % de Tempranillo
+Montecillo,Rioja Crianza 2017,2017,"3,7",1226,España / Rioja,"7,95",Vino tinto,100 % de Tempranillo
+Edetària,Via Edetana Blanca 2018,2018,"3,9",278,España / Cataluña / Terra Alta,"11,20",Vino blanco,"70 % de Garnacha Blanca, 30 % de Viognier"
+Josep Grau Viticultor,L'Efecte Volador Montsant 2017,2017,"3,7",444,España / Cataluña / Tarragona / Montsant,"8,95",Vino tinto,Grenache
+Barco del Corneta,Cucú Verdejo 2021,2021,"3,8",116,España / Castilla y León,"9,35",Vino blanco,100 % de Verdejo
+Finca Constancia,Selección 2018,2018,"3,7",127,España / Castilla,"6,90",Vino tinto,"30 % de Shiraz/Syrah, 25 % de Cabernet Sauvignon, 15 % de Cabernet Franc, 13 % de Petit Verdot, 12 % de Graciano, 5 % de Tempranillo"
+José Pariente,Verdejo 2020,2020,"4,1",3138,España / Castilla y León / Rueda,"9,50",Vino blanco,100 % de Verdejo
+Viña Mayor,Ribera del Duero Reserva 2016,2016,"4,0",46,España / Castilla y León / Ribera del Duero,"23,50",Vino tinto,100 % de Tempranillo
+Alvar de Dios,Camino de los Arrieros 2018,2018,"3,5",271,Arribes,"12,75",Vino tinto,"Rufete, Juan Garcia"
+El Escocés Volante,El Puño Tinto 2013,2013,"3,9",111,España / Aragón / Calatayud,"19,56",Vino tinto,Garnacha
+Olivardots,Vd’O 1 Samsó - Pissarra 2012,2012,"4,3",49,España / Cataluña / Empordà,32,Vino tinto,Samsó
+Cuatro Rayas,Amador Diez Cuvée Verdejo 2017,2017,"4,2",40,España / Castilla y León / Rueda,"32,80",Vino blanco,Verdejo
+Liberalia,Tres 2018,2018,"3,9",27,España / Castilla y León / Toro,"5,95",Vino tinto,100 % de Tempranillo
+Finca Sandoval,Salia 2019,2019,"3,7",50,España / Castilla / Manchuela,"12,49",Vino tinto,Bobal
+Celler Credo,And The Winner Is... 2019,2019,"3,6",244,España / Cataluña,"6,80",Vino blanco,Parellada
+Marqués de Riscal,Rioja Reserva 2010,2010,"3,9",9437,España / Rioja,33,Vino tinto,100 % de Tempranillo
+Cune (CVNE),Gran Reserva 2015,2015,"4,0",2800,España / Rioja,"17,60",Vino tinto,"85 % de Tempranillo, 10 % de Graciano, 5 % de Mazuelo"
+Familia Torres,Atrium Merlot 2018,2018,"3,7",827,España / Cataluña / Penedès,"9,95",Vino tinto,100 % de Merlot
+Emilio Moro,Malleolus de Sanchomartin 2018,2018,"4,4",81,España / Castilla y León / Ribera del Duero,"119,35",Vino tinto,100 % de Tinto Fino
+Ceremonia,Reserva Limited Edition 2013,2013,"3,4",44,España / Valencia / Utiel-Requena,"7,50",Vino tinto,"60 % de Tempranillo, 30 % de Cabernet Sauvignon, 10 % de Bobal"
+Marqués de la Concordia,Ándalus Petit Verdot 2005,2005,"4,0",94,España / Andalucía,"20,30",Vino tinto,Petit Verdot
+Viña Pomal,Crianza 2018,2018,"3,7",506,España / Rioja,"7,99",Vino tinto,100 % de Tempranillo
+Txomin Etxaniz,Rosé 2021,2021,"3,7",40,España / País Vasco / Getariako Txakolina,"9,95",Vino rosado,Hondarrabi Zuri
+Loxarel,A Pèl Ancestral Barba-Roja 2020,2020,"4,0",37,España / Cataluña / Penedès,"15,70",Vino espumoso,"Xarel-lo, Sumoll, Grenache"
+Museum,La Renacida Tinto 2019,2019,"3,9",33,España / Castilla y León / Cigales,"18,95",Vino tinto,"Tempranillo, Verdejo, Albillo Mayor"
+Bodegas Lagunilla,Crianza 2015,2015,"3,4",406,España / Rioja,"6,35",Vino tinto,Tempranillo
+Señorio de Arana,Viña del Oja Crianza 2016,2016,"3,7",161,España / Rioja,"5,51",Vino tinto,"Tempranillo, Mazuelo"
+Espelt,Lledoner Roig Blanc de Roig 2014,2014,"3,9",64,España / Cataluña / Empordà,"23,45",Vino blanco,Grenache Gris
+Altanza,Colección Roberto Amillo Palo Cortado N.V.,3608,"4,3",30,España / Andalucía / Jerez-Xérès-Sherry,,Vino fortificado,100 % de Palomino
+Gonzalez-Byass,Matusalem Sherry VORS N.V.,9975,"4,3",1504,España / Andalucía / Jerez-Xérès-Sherry / Jerez Oloroso,"69,95",Vino fortificado,100 % de Pedro Ximenez
+Pago Casa Gran,Falcata Blanco 2021,2021,"4,3",104,España / Valencia,"6,99",Vino blanco,Gewürztraminer
+Bodegas Frontonio,Telescópico Macabeo - Garnacha Blanca 2018,2018,"4,0",134,España / Aragón / Valdejalón,"15,50",Vino blanco,"Garnacha Blanca, Viognier, Macabeo"
+Gémina,Cuvée Selección 2016,2016,"4,0",49,España / Murcia / Jumilla,"15,40",Vino tinto,Monastrell
+Gutiérrez de la Vega,Tío Raimundo 2016,2016,"3,7",29,España / Valencia / Alicante,"22,90",Vino blanco,Muscat of Alexandria
+Homenaje,Crianza 2017,2017,"3,4",27,España / Navarra,"6,95",Vino tinto,"Tempranillo, Cabernet Sauvignon"
+La Rioja Alta,Viña Alberdi Reserva 2007,2007,"3,9",2045,España / Rioja,15,Vino tinto,100 % de Tempranillo
+Coto de Gomariz (María Álvarez Serrano),The Flower and the Bee La Flor y La Abeja Tinto 2016,2016,"3,4",36,España / Galicia / Ribeiro,"9,70",Vino tinto,Souzao
+Bodegas Lunares,Lunares Tinto 2013,2013,"3,4",50,España / Andalucía / Málaga,"10,44",Vino tinto,"Shiraz/Syrah, Garnacha, Tintilla de Rota"
+Solergibert,Enric Solergibert Gran Selecció Reserva Cabernet Sauvignon 2016,2016,"4,2",32,España / Cataluña / Pla de Bages,"33,50",Vino tinto,Cabernet Sauvignon
+Castaño,Hécula Monastrell 2017,2017,"3,3",1409,España / Murcia / Yecla,"8,66",Vino tinto,100 % de Mourvedre
+Viña Sastre,Regina Vides Ribera del Duero 2010,2010,"4,4",109,España / Castilla y León / Ribera del Duero,116,Vino tinto,Tempranillo
+Beronia,Rioja Reserva 2016,2016,"4,0",4422,España / Rioja,"12,25",Vino tinto,"95 % de Tempranillo, 4 % de Graciano, 1 % de Mazuelo"
+Marqués de Cáceres,Excellens Rueda Sauvignon Blanc 2018,2018,"3,7",420,España / Castilla y León / Rueda,"7,90",Vino blanco,100 % de Sauvignon Blanc
+Borsao Bodegas,Rosado (Selección Rosado / Rosé) 2019,2019,"3,6",185,España / Aragón / Campo de Borja,"4,80",Vino rosado,100 % de Garnacha
+Bodegas Corral - Don Jacobo,Altos de Corral Single Estate Crianza 2016,2016,"4,3",35,España / Rioja,"21,80",Vino tinto,Tempranillo
+4 Kilos Vinícola,Tanuki Bob Manto Negro 2018,2018,"4,0",171,España / Islas Baleares / Mallorca,"16,20",Vino tinto,100 % de Manto Negro
+Alvear,CB Fino Pedro Ximenez N.V.,7639,"3,4",465,España / Andalucía / Montilla-Moriles,"6,24",Vino fortificado,100 % de Pedro Ximenez
+Viladellops,Tinto 2017,2017,"3,9",43,España / Cataluña / Penedès,"11,06",Vino tinto,Garnacha
+Singulares,Afortunado Verdejo Rueda 2021,2021,"3,9",113,España / Castilla y León / Rueda,"6,50",Vino blanco,100 % de Verdejo
+Viña Bujanda,Graciano 2014,2014,"3,7",73,España / Rioja,"13,90",Vino tinto,100 % de Graciano
+Bodegas Valduero,Finca Azaya 2017,2017,"4,1",1540,España / Castilla y León,"18,90",Vino tinto,100 % de Tempranillo
+Ostatu,Lore Rioja 2018,2018,"4,1",48,España / Rioja / Rioja Alavesa,"13,50",Vino blanco,"Tempranillo, Mazuelo, Graciano, Macabeo, Viura"
+Contino,Rioja Graciano 2017,2017,"4,3",134,España / Rioja,"62,90",Vino tinto,100 % de Graciano
+Finca Antigua,Viura 2020,2020,"3,7",36,España / Castilla / La Mancha,"5,60",Vino blanco,100 % de Viura
+Mas Blanch I Jove,Saó Expressiu 2012,2012,"4,4",28,España / Cataluña / Costers del Segre,"34,50",Vino tinto,"Cabernet Sauvignon, Tempranillo, Garnacha"
+Bodegas Arfe,Palo Cortado de la Cruz de 1767 N.V.,0956,"4,3",67,España / Andalucía / Jerez-Xérès-Sherry,,Vino fortificado,Palomino
+Jean Leon,Chardonnay Penedès Vinya Gigi 2013,2013,"3,8",188,España / Cataluña / Penedès,"22,45",Vino blanco,100 % de Chardonnay
+Segura Viudas,Mas d'Aranyó Reserva 2015,2015,"3,7",128,España / Cataluña,"16,10",Vino tinto,"Shiraz/Syrah, Cabernet Sauvignon, Merlot, Tempranillo"
+Lagravera,Laltre 2020,2020,"3,8",115,España / Cataluña / Costers del Segre,"6,50",Vino tinto,100 % de Tempranillo
+Bodegas Martín Códax,Rías Baixas Albariño Marieta 2021,2021,"3,9",108,España / Galicia / Rías Baixas,"9,50",Vino blanco,100 % de Albariño
+Torre de Oña,Finca Martelo 2015,2015,"4,3",756,España / Rioja,"22,25",Vino tinto,100 % de Tempranillo
+Dominio de Bornos,Crianza 2016,2016,"3,6",36,España / Castilla y León / Ribera del Duero,"11,95",Vino tinto,Tempranillo
+El Miracle,El Miracle By Mariscal Old Vine Garnacha Tintorera 2019,2019,"3,6",67,España / Valencia,"6,50",Vino tinto,100 % de Garnacha Tintorera
+Coca i Fitó,Negre 2012,2012,"4,1",181,España / Cataluña / Tarragona / Montsant,"28,50",Vino tinto,"50 % de Shiraz/Syrah, 30 % de Garnacha, 20 % de Cariñena"
+Bodega Cerrón,Todo Sobre Mi Chardonnay 2021,2021,"3,8",78,España / Murcia / Jumilla,"7,90",Vino blanco,100 % de Chardonnay
+Finca Antigua,Moscatel Naturalmente Dulce 2019,2019,"4,1",74,España / Castilla / La Mancha,"8,20",Vino de postre,"Moscato, Moscatel de Alejandría, Tempranillo"
+Gran Feudo,Crianza 2013,2013,"3,4",628,España / Navarra,"4,42",Vino tinto,"60 % de Tempranillo, 15 % de Cabernet Sauvignon, 15 % de Merlot, 10 % de Garnacha"
+Bodega Pirineos,Montesierra Crianza 2017,2017,"3,6",57,España / Aragón / Somontano,"5,10",Vino tinto,"Cabernet Sauvignon, Tempranillo, Moristel"
+Enrique Mendoza,Cabernet Sauvignon - Monastrell Alicante Crianza 2018,2018,"3,8",178,España / Valencia / Alicante,"8,75",Vino tinto,"Cabernet Sauvignon, Monastrell"
+Noelia Bebelia,Albariño 2020,2020,"4,2",82,España / Galicia / Rías Baixas,"12,90",Vino blanco,100 % de Albariño
+Munia,Roble 2020,2020,"3,8",32,España / Castilla y León / Toro,"8,50",Vino tinto,100 % de Tinta de toro
+Buil & Giné,Giné Rosat 2017,2017,"3,6",27,España / Cataluña / Priorato,"13,50",Vino rosado,"Grenache, Merlot"
+Bodegas Care,Cariñena Superior 2019,2019,"4,0",27,España / Aragón / Cariñena,"9,95",Vino tinto,Cariñena
+Solar Viejo,Orube Crianza 2017,2017,"4,0",948,España / Rioja,"8,39",Vino tinto,100 % de Tempranillo
+Bela,Roble 2020,2020,"3,6",100,España / Castilla y León / Ribera del Duero,10,Vino tinto,Tempranillo
+Volcanic Wines,Tr3vejos Tinto 2017,2017,"4,1",40,España / Islas Canarias / Abona,"21,70",Vino tinto,Shiraz/Syrah
+Luis A. Rodriguez Vazquez,A Torna dos Pasas Escolma Ribeiro 2016,2016,"4,2",59,España / Galicia / Ribeiro,"40,95",Vino tinto,Caiño tinto
+Pata Negra,Ribera del Duero Roble 2020,2020,"3,4",40,España / Castilla y León / Ribera del Duero,"7,50",Vino tinto,100 % de Tempranillo
+Cune (CVNE),Reserva 2013,2013,"3,8",3950,España / Rioja,"10,90",Vino tinto,"85 % de Tempranillo, 5 % de Grenache, 5 % de Mazuelo, 5 % de Graciano"
+Pepe Mendoza Casa Agrícola,La Viña de Madaras 2018,2018,"3,8",58,España / Valencia / Alicante,"17,95",Vino tinto,Girò
+Izadi,Blanco 2016,2016,"3,6",476,España / Rioja,"10,26",Vino blanco,"80 % de Viura, 20 % de Malvasia"
+Mas Oller,Mar 2019,2019,"3,6",185,España / Cataluña,"10,40",Vino blanco,"Malvasia, Picapoll Blanco"
+Castell del Remei,Gotim Blanc 2019,2019,"3,6",161,España / Cataluña / Costers del Segre,"6,70",Vino blanco,"Sauvignon Blanc, Macabeo"
+Enrique Mendoza,Estrecho Monastrell 2010,2010,"4,0",68,España / Valencia / Alicante,"18,90",Vino tinto,100 % de Monastrell
+Ausàs,Interpretación 2018,2018,"4,4",562,España / Castilla y León / Ribera del Duero,41,Vino tinto,100 % de Tinto Fino
+Gotas de Mar,Godello 2020,2020,"3,9",70,España / Galicia / Ribeiro,"11,30",Vino blanco,Godello
+Belondrade,Belondrade y Lurton 2009,2009,"4,3",173,España / Castilla y León / Rueda,"105,95",Vino blanco,100 % de Verdejo
+Enrique Mendoza,Chardonnay Alicante 2018,2018,"3,7",424,España / Valencia / Alicante,"7,74",Vino blanco,100 % de Chardonnay
+Codorníu,Leiras Albariño Rias Baixas 2021,2021,"3,8",89,España / Galicia / Rías Baixas,"10,95",Vino blanco,100 % de Albariño
+Habla,Silencio 2015,2015,"3,8",3052,España / Extremadura,"10,60",Vino tinto,"Shiraz/Syrah, Tempranillo, Cabernet Sauvignon"
+Rioja Vega,Rioja Vega Edición Limitada 2017,2017,"3,9",135,España / Rioja,"12,50",Vino tinto,"95 % de Tempranillo, 5 % de Graciano"
+Protos,Selección Finca el Grajo Viejo 2018,2018,"4,4",29,España / Castilla y León / Ribera del Duero,"59,90",Vino tinto,100 % de Tempranillo
+Falset Marçà,Imus Selection 2020,2020,"3,3",86,España / Cataluña / Tarragona / Montsant,"4,22",Vino tinto,"Cariñena, Garnacha"
+Bodegas Nekeas,El Chaparral de Vega Sindoa Old Vines Garnacha 2019,2019,"4,1",131,España / Navarra,"11,15",Vino tinto,100 % de Garnacha
+Oxer Wines,Artillero 2014,2014,"3,8",57,España / Rioja,"32,95",Vino tinto,100 % de Tempranillo
+Morlanda,Blanc 2014,2014,"3,8",78,España / Cataluña / Priorato,"14,95",Vino blanco,"Grenache Blanc, Macabeo, Muscatel"
+Federico Paternina,Banda Oro Crianza 2018,2018,"3,4",31,España / Rioja,"5,70",Vino tinto,"Grenache, Tempranillo, Carignan"
+Costers del Siurana,Clos de L'Obac 2012,2012,"4,3",27,España / Cataluña / Priorato,"76,23",Vino tinto,"Shiraz/Syrah, Cabernet Sauvignon, Grenache, Merlot, Carignan"
+Castillo de Vinaral,Gran Reserva 2010,2010,"3,3",233,España / Aragón / Cariñena,"16,27",Vino tinto,Cariñena
+Baron de Ley,Rioja Reserva 2016,2016,"3,8",4836,España / Rioja,"10,85",Vino tinto,100 % de Tempranillo
+Castell de Santueri,Tinto 2018,2018,"3,6",63,España / Islas Baleares / Mallorca,"10,50",Vino tinto,"Cabernet Sauvignon, Callet, Manto Negro"
+Paco & Lola,No. 12 Albariño 2021,2021,"4,0",71,España / Galicia / Rías Baixas,"9,87",Vino blanco,100 % de Albariño
+Espelt,Vailet 2020,2020,"3,4",32,España / Cataluña / Empordà,"6,41",Vino blanco,100 % de Garnacha Blanca
+Vetus,Flor de Vetus 2017,2017,"3,7",1423,España / Castilla y León / Toro,"8,39",Vino tinto,100 % de Tinta de toro
+Coca i Fitó,Jaspi d'Or 2016,2016,"3,9",61,España / Cataluña / Terra Alta,15,Vino blanco,"80 % de Garnacha Blanca, 20 % de Macabeo"
+Gómez Cruzado,Blanco 2017,2017,"3,8",228,España / Rioja,"10,25",Vino blanco,"85 % de Viura, 15 % de Tempranillo Blanco"
+Ànima Negra,Son Negre 2007,2007,"4,6",52,España / Islas Baleares / Mallorca,"164,90",Vino tinto,100 % de Callet
+Vins de la Memòria,El Badiu Pansa Blanca 2019,2019,"4,1",27,España / Cataluña / Alella,"22,70",Vino blanco,"Xarel-lo, Abrusco"
+Enrique Mendoza,Moscatel de la Marina Alicante 2019,2019,"4,0",41,España / Valencia / Alicante,"7,25",Vino blanco,100 % de Moscatel de Alejandría
+Alfredo Arribas,Gotes del Priorat 2018,2018,"3,9",186,España / Cataluña / Priorato,"13,19",Vino tinto,"Shiraz/Syrah, Cariñena, Garnacha"
+Gran Feudo,Reserva 2014,2014,"3,6",908,España / Navarra,"6,75",Vino tinto,"Cabernet Sauvignon, Merlot, Tempranillo"
+Azabache,Reserva Tempranillo - Graciano 2011,2011,"3,6",165,España / Rioja,"7,20",Vino tinto,"Tempranillo, Graciano"
+Clos Lentiscus,Núria Muscat d'Alexandria 2018,2018,"3,9",76,España / Cataluña / Penedès,"16,30",Vino espumoso,Muscat of Alexandria
+Viña Zorzal,Corral de los Altos 2013,2013,"4,0",62,España / Navarra,"11,90",Vino tinto,Grenache
+Bernabeleva,Navaherreros Blanco 2018,2018,"3,7",93,España / Madrid,"12,90",Vino blanco,100 % de Albillo
+Terra.00,Chenin Blanc 2019,2019,"3,9",25,España / Cataluña / Tarragona,"12,60",Vino blanco,Chenin Blanc
+R. López de Heredia,Viña Bosconia Reserva 2011,2011,"4,2",55,España / Rioja / Rioja Alta,"22,75",Vino tinto,100 % de Tempranillo
+Collbaix Celler El Molí,Oest 2019,2019,"3,7",53,España / Cataluña / Pla de Bages,"10,90",Vino tinto,"Shiraz/Syrah, Merlot"
+Bodegas Rívola,Tinto 2020,2020,"3,7",59,España / Castilla y León / Sardón de Duero,"12,77",Vino tinto,Tempranillo
+Alfredo Arribas,Trossos Sants 2016,2016,"3,7",66,España / Cataluña / Tarragona / Montsant,"15,89",Vino blanco,100 % de Garnacha Blanca
+Contino,Rioja Graciano 2015,2015,"4,3",227,España / Rioja,"71,55",Vino tinto,100 % de Graciano
+Leda,Viñas Viejas Tempranillo 2018,2018,"4,3",64,España / Castilla y León,"26,90",Vino tinto,100 % de Tempranillo
+Marques del Atrio,Crianza 2018,2018,"3,7",33,España / Rioja,"8,65",Vino tinto,"Tempranillo, Graciano"
+Triay,Godello 2018,2018,"3,7",122,España / Galicia / Monterrei,"9,03",Vino blanco,100 % de Godello
+Pagos de Matanegra,Vendimia Seleccionada Tempranillo 2013,2013,"3,9",78,España / Castilla y León / Ribera del Duero,"32,50",Vino tinto,100 % de Tempranillo
+Jaro,Chafandin 2018,2018,"4,4",210,España / Castilla y León / Ribera del Duero,"29,95",Vino tinto,Tempranillo
+Finca Los Aljibes,Cabernet Franc 2015,2015,"3,8",83,España / Castilla,"10,50",Vino tinto,100 % de Cabernet Franc
+Juan Pinero,Great Duke Palo Cortado 12 Años N.V.,7950,"4,0",172,España / Andalucía / Jerez-Xérès-Sherry,"18,75",Vino fortificado,Palomino
+Chozas Carrascal,El Cabernet F - Familiar 2017,2017,"4,3",99,España / Valencia / Utiel-Requena,"34,90",Vino tinto,100 % de Cabernet Franc
+Muga,Torre Muga 2006,2006,"4,4",1484,España / Rioja,65,Vino tinto,"Tempranillo, Mazuelo, Graciano"
+Terra i Vins,les Roques de Benet 2013,2013,"3,4",41,España / Aragón / Bajo Aragón,"7,95",Vino tinto,"Shiraz/Syrah, Cabernet Sauvignon, Garnacha"
+Juan Gil,Jumilla Silver Label 2017,2017,"3,9",5335,España / Murcia / Jumilla,"11,50",Vino tinto,100 % de Monastrell
+Pagos de Indalia,La Cabra & La Bota Selección 2014,2014,"3,8",102,España / Andalucía / Ribera del Andarax,"6,75",Vino tinto,"Shiraz/Syrah, Cabernet Sauvignon, Tempranillo"
+Loxarel,Vintage Reserva Brut Nature 2016,2016,"3,9",56,España / Cataluña / Penedès,"6,45",Vino espumoso,"Macabeo, Xarel-lo, Chardonnay"
+Bodegas Faustino,Cava Semi Seco N.V.,5279,"3,6",964,España / Cava,"6,22",Vino espumoso,"Chardonnay, Macabeo"
+Fillaboa,Selección Finca Monte Alto 2018,2018,"4,0",57,España / Galicia / Rías Baixas,"20,68",Vino blanco,100 % de Albariño
+Cap de Barbaria,Tinto 2010,2010,"4,1",210,España / Islas Baleares / Formentera,36,Vino tinto,"Merlot, Cabernet Sauvignon, Monastrell"
+Artadi,Viña El Pison 2006,2006,"4,6",275,España / Vino de España,390,Vino de España,100 % de Tempranillo
+Bodegas Exopto,Bozeto de Exopto Tinto 2020,2020,"4,0",210,España / Rioja,"8,20",Vino tinto,100 % de Garnacha
+Condado de Oriza,Tempranillo Ribera del Duero 2019,2019,"3,8",297,España / Castilla y León / Ribera del Duero,"6,95",Vino tinto,100 % de Tempranillo
+Artadi,Viña El Pison 2009,2009,"4,6",124,España / Vino de España,"511,90",Vino de España,100 % de Tempranillo
+Baigorri,Crianza Tempranillo 2015,2015,"3,9",1698,España / Rioja,"23,25",Vino tinto,100 % de Tempranillo
+Gran Feudo,Reserva 2016,2016,"3,6",475,España / Navarra,"6,75",Vino tinto,"Cabernet Sauvignon, Merlot, Tempranillo"
+Joan d'Anguera,Planella 2020,2020,"4,3",71,España / Cataluña / Tarragona / Montsant,"16,20",Vino tinto,100 % de Cariñena
+Maria Rigol Ordi,Cava Brut Nature 2017,2017,"3,6",35,España / Cava,"9,01",Vino espumoso,"45 % de Xarel-lo, 35 % de Macabeo, 20 % de Parellada"
+Heredad de Baroja,Tinto 2018,2018,"3,6",108,España / Rioja,"3,79",Vino tinto,Tempranillo
+Gotas de Mar,Albariño 2021,2021,"4,1",82,España / Galicia / Rías Baixas,"11,49",Vino blanco,Albariño
+Pagos del Moncayo,Prados Privé 2018,2018,"4,2",86,España / Aragón / Campo de Borja,"20,90",Vino tinto,"Shiraz/Syrah, Garnacha"
+Félix Solís,Viña Albali Reserva 2017,2017,"3,4",281,España / Castilla / Valdepeñas,"3,90",Vino tinto,Tempranillo
+Singulares,Luna Creciente Albariño Rías Baixas 2019,2019,"3,6",31,España / Galicia / Rías Baixas,"8,80",Vino blanco,100 % de Albariño
+Artadi,El Carretil 2017,2017,"4,7",37,España / Vino de España,"176,89",Vino de España,100 % de Tempranillo
+El Mas de l'A,Les Margues 2018,2018,"4,0",34,España / Cataluña / Priorato,"35,90",Vino blanco,Garnacha Blanca
+Segura Viudas,Cava Reserva Heredad Brut,7454,"3,9",15404,España / Cava,"17,90",Vino espumoso,"Macabeo, Parellada"
+Manuel Manzaneque Suárez,Paloma Minguez Cava Brut Ecológico N.V.,1630,"3,9",154,España / Cava,"9,24",Vino espumoso,"Parellada, Macabeo, Xarel-lo"
+Los Frailes,Garnacha - Monastrell 2018,2018,"3,7",159,España / Valencia,"7,50",Vino tinto,"70 % de Monastrell, 30 % de Garnacha"
+Remírez de Ganuza,Rioja Blanco Reserva 2012,2012,"4,4",92,España / Rioja,"69,50",Vino blanco,100 % de Malvasia
+Terra Remota,Caminante 2021,2021,"4,0",31,España / Cataluña / Empordà,"19,70",Vino blanco,100 % de Garnacha Blanca
+Bernabeleva,Arroyo del Tórtolas 2016,2016,"3,7",80,España / Madrid,"27,90",Vino tinto,100 % de Grenache
+Viñedos de Páganos,La Nieta 2018,2018,"4,6",263,España / Rioja,"110,80",Vino tinto,100 % de Tempranillo
+Cresta Rosa,Rosé N.V.,5457,"3,2",835,España / Cataluña / Penedès,"3,95",Vino espumoso,"Shiraz/Syrah, Pinot Noir"
+Bodega Sommos,Alquez 2017,2017,"3,8",103,España / Aragón / Calatayud,"9,90",Vino tinto,100 % de Garnacha
+Pago Los Balancines,Mastines Garnacha Tintorera 2015,2015,"4,1",199,España / Extremadura / Ribera del Guadiana,"34,90",Vino tinto,100 % de Garnacha Tintorera
+Cyan,Crianza 2014,2014,"3,9",52,España / Castilla y León / Toro,"12,08",Vino tinto,100 % de Tempranillo
